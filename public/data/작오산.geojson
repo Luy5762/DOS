@@ -1,0 +1,4616 @@
+{
+  "type": "FeatureCollection",
+  "name": "작오산",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:ESRI::102080"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44559,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.1,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081242.5077,
+              1778630.6557
+            ],
+            [
+              1081222.3428999996,
+              1778633.6385999992
+            ],
+            [
+              1081206.1436,
+              1778639.4923
+            ],
+            [
+              1081189.9387999997,
+              1778644.2638000008
+            ],
+            [
+              1081178.0783000002,
+              1778652.2589999996
+            ],
+            [
+              1081163.7043000003,
+              1778662.4310999997
+            ],
+            [
+              1081153.5625999998,
+              1778677.3900000006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44560,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.14,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081242.5077,
+              1778630.6557
+            ],
+            [
+              1081230.5509000001,
+              1778686.9730999991
+            ],
+            [
+              1081230.9653000003,
+              1778697.4298999999
+            ],
+            [
+              1081231.0115,
+              1778706.4460000005
+            ],
+            [
+              1081227.4457999999,
+              1778714.398600001
+            ],
+            [
+              1081216.2972999997,
+              1778720.5868999995
+            ],
+            [
+              1081209.1102999998,
+              1778725.6729000006
+            ],
+            [
+              1081197.7276999997,
+              1778756.5069999993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44561,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "한빛타운구간",
+        "PMNTN_MAIN": "한빛아파트~분기점",
+        "PMNTN_LT": 0.02,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081710.5404000003,
+              1778629.3170999996
+            ],
+            [
+              1081721.4431999996,
+              1778646.5642000008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44562,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.1,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081721.4431999996,
+              1778646.5642000008
+            ],
+            [
+              1081735.0384999998,
+              1778661.6345000006
+            ],
+            [
+              1081745.8969,
+              1778670.2303
+            ],
+            [
+              1081753.0176999997,
+              1778688.0373999998
+            ],
+            [
+              1081756.9330000002,
+              1778713.4310999997
+            ],
+            [
+              1081757.5569000002,
+              1778729.6493999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44563,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.09,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081153.5625999998,
+              1778677.3900000006
+            ],
+            [
+              1081159.3502000002,
+              1778680.7265000008
+            ],
+            [
+              1081163.2462999998,
+              1778690.3237999994
+            ],
+            [
+              1081169.5714999996,
+              1778704.7174999993
+            ],
+            [
+              1081174.9250999996,
+              1778717.1927000005
+            ],
+            [
+              1081180.7644999996,
+              1778730.6271000002
+            ],
+            [
+              1081185.1464999998,
+              1778741.1837000009
+            ],
+            [
+              1081197.7276999997,
+              1778756.5069999993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44544,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "무성그린맨션구간",
+        "PMNTN_MAIN": "무성아파트~쉼터~정상~아곡리(명가식당)",
+        "PMNTN_LT": 0.2,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 4,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081073.3735999996,
+              1778431.6627999991
+            ],
+            [
+              1081069.8159999996,
+              1778431.3527000006
+            ],
+            [
+              1081066.9808999998,
+              1778432.3553
+            ],
+            [
+              1081064.0888999999,
+              1778434.4444999993
+            ],
+            [
+              1081062.4266,
+              1778437.0921999998
+            ],
+            [
+              1081061.4658000004,
+              1778441.015900001
+            ],
+            [
+              1081061.4323000005,
+              1778444.1983000003
+            ],
+            [
+              1081062.7188,
+              1778451.0329
+            ],
+            [
+              1081063.7882000003,
+              1778455.8885999992
+            ],
+            [
+              1081065.0389,
+              1778460.1744
+            ],
+            [
+              1081066.5023999996,
+              1778463.9965000004
+            ],
+            [
+              1081068.1909999996,
+              1778467.3850999996
+            ],
+            [
+              1081071.4186000004,
+              1778472.2304999996
+            ],
+            [
+              1081075.5685999999,
+              1778477.0461
+            ],
+            [
+              1081078.1085,
+              1778479.3260999992
+            ],
+            [
+              1081084.1222,
+              1778483.7345000003
+            ],
+            [
+              1081086.6057000002,
+              1778485.826199999
+            ],
+            [
+              1081090.6056000004,
+              1778490.0570999999
+            ],
+            [
+              1081097.3733,
+              1778504.0843000002
+            ],
+            [
+              1081100.1753000002,
+              1778507.7806000002
+            ],
+            [
+              1081116.2550999997,
+              1778528.9926999994
+            ],
+            [
+              1081126.3827,
+              1778534.7112000007
+            ],
+            [
+              1081135.5362,
+              1778538.0303000007
+            ],
+            [
+              1081149.057,
+              1778549.0209
+            ],
+            [
+              1081157.7814999996,
+              1778562.4405000005
+            ],
+            [
+              1081158.3609999996,
+              1778581.6723999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44545,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "석전리구간",
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.05,
+        "PMNTN_DFFL": "중간",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081220.6353000002,
+              1778445.6271000002
+            ],
+            [
+              1081217.7626,
+              1778449.8022000007
+            ],
+            [
+              1081212.188,
+              1778456.1615999993
+            ],
+            [
+              1081204.8074000003,
+              1778463.072899999
+            ],
+            [
+              1081201.3874000004,
+              1778466.3463000003
+            ],
+            [
+              1081199.9589,
+              1778469.9713000003
+            ],
+            [
+              1081199.9737,
+              1778472.8652
+            ],
+            [
+              1081199.9960000003,
+              1778477.2062999997
+            ],
+            [
+              1081200.5571999997,
+              1778480.8210000005
+            ],
+            [
+              1081200.3035000004,
+              1778484.3221000005
+            ],
+            [
+              1081199.9359999998,
+              1778487.1251999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44546,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "석전리구간",
+        "PMNTN_MAIN": "제일교회~분기점",
+        "PMNTN_LT": 0.04,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081307.3970999997,
+              1778460.9296000004
+            ],
+            [
+              1081305.7566,
+              1778464.081700001
+            ],
+            [
+              1081302.7825999996,
+              1778468.0689000003
+            ],
+            [
+              1081300.5422,
+              1778470.6809999999
+            ],
+            [
+              1081297.2353999997,
+              1778474.1954999994
+            ],
+            [
+              1081295.1189000001,
+              1778478.0770999994
+            ],
+            [
+              1081295.0957000004,
+              1778481.5318999998
+            ],
+            [
+              1081296.5526,
+              1778485.7416999992
+            ],
+            [
+              1081296.7160999998,
+              1778490.2774
+            ],
+            [
+              1081295.4417000003,
+              1778494.1919999998
+            ],
+            [
+              1081294.0143,
+              1778497.3049999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44547,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.05,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081199.9359999998,
+              1778487.1251999997
+            ],
+            [
+              1081198.8230999997,
+              1778490.5362
+            ],
+            [
+              1081196.3090000004,
+              1778498.9309
+            ],
+            [
+              1081194.9710999997,
+              1778502.555400001
+            ],
+            [
+              1081189.6491,
+              1778505.2959000003
+            ],
+            [
+              1081188.8952000001,
+              1778508.6071000006
+            ],
+            [
+              1081188.8822999997,
+              1778508.6640000008
+            ],
+            [
+              1081190.7150999997,
+              1778514.4250000007
+            ],
+            [
+              1081185.7642,
+              1778533.5649999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44548,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.08,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081199.9359999998,
+              1778487.1251999997
+            ],
+            [
+              1081203.3717,
+              1778488.2462000009
+            ],
+            [
+              1081207.4160000002,
+              1778491.331700001
+            ],
+            [
+              1081210.7539999997,
+              1778494.2683000006
+            ],
+            [
+              1081213.9535999997,
+              1778497.205600001
+            ],
+            [
+              1081216.9806000004,
+              1778499.511499999
+            ],
+            [
+              1081219.8170999996,
+              1778502.2784000002
+            ],
+            [
+              1081221.7023,
+              1778506.992900001
+            ],
+            [
+              1081222.1273999996,
+              1778508.9181999993
+            ],
+            [
+              1081222.4314000001,
+              1778510.2950999998
+            ],
+            [
+              1081223.21,
+              1778521.4713000003
+            ],
+            [
+              1081221.085,
+              1778529.0559
+            ],
+            [
+              1081215.7215999998,
+              1778538.0997000001
+            ],
+            [
+              1081208.9397,
+              1778551.8392999992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44549,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.03,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081294.0143,
+              1778497.3049999997
+            ],
+            [
+              1081291.5251000002,
+              1778509.5678000003
+            ],
+            [
+              1081289.3240999999,
+              1778520.4108000007
+            ],
+            [
+              1081288.1369000003,
+              1778523.302100001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44550,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.09,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081288.1369000003,
+              1778523.302100001
+            ],
+            [
+              1081283.1667999998,
+              1778538.7155000009
+            ],
+            [
+              1081273.6162999999,
+              1778551.7479999997
+            ],
+            [
+              1081260.2410000004,
+              1778569.1279000007
+            ],
+            [
+              1081251.7065000003,
+              1778592.7342000008
+            ],
+            [
+              1081248.4921000004,
+              1778606.6360999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44551,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.16,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 3,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081288.1369000003,
+              1778523.302100001
+            ],
+            [
+              1081301.5417,
+              1778535.1349
+            ],
+            [
+              1081307.7559000002,
+              1778551.3323
+            ],
+            [
+              1081308.8932999996,
+              1778562.1459999997
+            ],
+            [
+              1081307.8761999998,
+              1778574.7741
+            ],
+            [
+              1081304.3510999996,
+              1778590.6609000005
+            ],
+            [
+              1081298.9933000002,
+              1778600.7865999993
+            ],
+            [
+              1081295.0872999998,
+              1778612.7082000002
+            ],
+            [
+              1081283.2138999999,
+              1778618.1788999997
+            ],
+            [
+              1081273.8389999997,
+              1778618.5876000002
+            ],
+            [
+              1081264.8229,
+              1778618.6338999998
+            ],
+            [
+              1081261.5862999996,
+              1778620.4538000003
+            ],
+            [
+              1081242.5077,
+              1778630.6557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44552,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.03,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081185.7642,
+              1778533.5649999995
+            ],
+            [
+              1081194.8154999996,
+              1778540.3708999995
+            ],
+            [
+              1081208.9397,
+              1778551.8392999992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44553,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.06,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081185.7642,
+              1778533.5649999995
+            ],
+            [
+              1081178.9638,
+              1778543.6981000006
+            ],
+            [
+              1081172.5037000002,
+              1778549.862400001
+            ],
+            [
+              1081167.1107,
+              1778553.1359
+            ],
+            [
+              1081162.8200000003,
+              1778560.3709999993
+            ],
+            [
+              1081162.1431,
+              1778569.0300999992
+            ],
+            [
+              1081158.3609999996,
+              1778581.6723999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44554,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.04,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081208.9397,
+              1778551.8392999992
+            ],
+            [
+              1081216.9164000005,
+              1778560.0933999997
+            ],
+            [
+              1081227.7449000003,
+              1778561.8411999997
+            ],
+            [
+              1081236.8221000005,
+              1778573.6961000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44555,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.1,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081236.8221000005,
+              1778573.6961000003
+            ],
+            [
+              1081234.9800000004,
+              1778566.1318999995
+            ],
+            [
+              1081234.9467000002,
+              1778559.6403
+            ],
+            [
+              1081236.3541,
+              1778552.7806000002
+            ],
+            [
+              1081237.0291999998,
+              1778543.7609
+            ],
+            [
+              1081243.8517000005,
+              1778537.9553999994
+            ],
+            [
+              1081258.5844999999,
+              1778527.4209000003
+            ],
+            [
+              1081269.3334,
+              1778513.6610000003
+            ],
+            [
+              1081277.2844000002,
+              1778509.4344999995
+            ],
+            [
+              1081283.7203000002,
+              1778506.0134999994
+            ],
+            [
+              1081294.0143,
+              1778497.3049999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44556,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.1,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081158.3609999996,
+              1778581.6723999996
+            ],
+            [
+              1081156.0579000004,
+              1778601.3998000007
+            ],
+            [
+              1081151.3431000002,
+              1778619.6971000005
+            ],
+            [
+              1081147.1486,
+              1778645.6855999995
+            ],
+            [
+              1081150.5910999998,
+              1778660.5747999996
+            ],
+            [
+              1081153.5625999998,
+              1778677.3900000006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44557,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.04,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081248.4921000004,
+              1778606.6360999998
+            ],
+            [
+              1081239.7922999999,
+              1778590.2708
+            ],
+            [
+              1081236.8221000005,
+              1778573.6961000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44558,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.02,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081248.4921000004,
+              1778606.6360999998
+            ],
+            [
+              1081242.5077,
+              1778630.6557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44564,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.08,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081695.6254000003,
+              1778719.2487000003
+            ],
+            [
+              1081696.3131999997,
+              1778701.8464000002
+            ],
+            [
+              1081696.8178000003,
+              1778694.8144000005
+            ],
+            [
+              1081696.7845,
+              1778688.3259999994
+            ],
+            [
+              1081697.8243000004,
+              1778680.2098999992
+            ],
+            [
+              1081709.0903000003,
+              1778662.8490999993
+            ],
+            [
+              1081721.4431999996,
+              1778646.5642000008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44565,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.09,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081695.6254000003,
+              1778719.2487000003
+            ],
+            [
+              1081681.2706000004,
+              1778720.8487
+            ],
+            [
+              1081673.2072,
+              1778730.0822
+            ],
+            [
+              1081662.9699,
+              1778737.1641000006
+            ],
+            [
+              1081652.6993000004,
+              1778737.7575000003
+            ],
+            [
+              1081644.6248000003,
+              1778744.8281999994
+            ],
+            [
+              1081638.7380999997,
+              1778756.7542000003
+            ],
+            [
+              1081626.8647999996,
+              1778761.140900001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44566,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "석전리구간",
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.02,
+        "PMNTN_DFFL": "어려",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081757.5569000002,
+              1778729.6493999995
+            ],
+            [
+              1081772.7770999996,
+              1778745.2521000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44567,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.02,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081197.7276999997,
+              1778756.5069999993
+            ],
+            [
+              1081203.0961999996,
+              1778771.2895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44568,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.1,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081626.8647999996,
+              1778761.140900001
+            ],
+            [
+              1081630.7218000004,
+              1778775.1798
+            ],
+            [
+              1081631.3207999999,
+              1778786.5318
+            ],
+            [
+              1081638.9267999995,
+              1778793.5220999997
+            ],
+            [
+              1081651.3546000002,
+              1778791.836100001
+            ],
+            [
+              1081663.2029,
+              1778782.5832000002
+            ],
+            [
+              1081671.8235999998,
+              1778776.591
+            ],
+            [
+              1081679.9203000003,
+              1778773.8458999991
+            ],
+            [
+              1081697.7857,
+              1778778.08
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44569,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.16,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 3,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081626.8647999996,
+              1778761.140900001
+            ],
+            [
+              1081619.2949,
+              1778761.1797000002
+            ],
+            [
+              1081611.1983000003,
+              1778763.924900001
+            ],
+            [
+              1081601.4989,
+              1778770.4633000009
+            ],
+            [
+              1081582.1141,
+              1778786.2435999997
+            ],
+            [
+              1081556.7619000003,
+              1778798.2694000006
+            ],
+            [
+              1081531.9644999998,
+              1778812.9960999992
+            ],
+            [
+              1081509.3131999997,
+              1778824.4672999997
+            ],
+            [
+              1081494.2401,
+              1778837.5219999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44570,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.06,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081203.0961999996,
+              1778771.2895
+            ],
+            [
+              1081210.6061000004,
+              1778779.4982999992
+            ],
+            [
+              1081223.0839999998,
+              1778787.5450999998
+            ],
+            [
+              1081243.1288,
+              1778795.0122999996
+            ],
+            [
+              1081250.6415999997,
+              1778800.2292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44571,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.23,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 4,
+        "PMNTN_GODN": 3,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081203.0961999996,
+              1778771.2895
+            ],
+            [
+              1081195.4746000003,
+              1778809.4142000005
+            ],
+            [
+              1081196.6323999995,
+              1778824.1950000003
+            ],
+            [
+              1081204.6628,
+              1778842.9078000002
+            ],
+            [
+              1081206.2052999996,
+              1778862.3750999998
+            ],
+            [
+              1081213.1980999997,
+              1778889.7487000003
+            ],
+            [
+              1081225.2603000002,
+              1778921.0636
+            ],
+            [
+              1081230.4556,
+              1778949.5285
+            ],
+            [
+              1081238.5044,
+              1778971.8476
+            ],
+            [
+              1081244.2910000002,
+              1778990.6119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44572,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.06,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081697.7857,
+              1778778.08
+            ],
+            [
+              1081703.6640999997,
+              1778764.5318999998
+            ],
+            [
+              1081702.5022999998,
+              1778748.8571000006
+            ],
+            [
+              1081695.6254000003,
+              1778719.2487000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44573,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.08,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081697.7857,
+              1778778.08
+            ],
+            [
+              1081709.659,
+              1778773.6932999995
+            ],
+            [
+              1081718.2797999997,
+              1778767.701199999
+            ],
+            [
+              1081725.8163,
+              1778761.1739000008
+            ],
+            [
+              1081737.1377999997,
+              1778754.6272
+            ],
+            [
+              1081745.7556999996,
+              1778748.0943999998
+            ],
+            [
+              1081751.1377999997,
+              1778743.2003000006
+            ],
+            [
+              1081754.8811999997,
+              1778735.0702999998
+            ],
+            [
+              1081757.5569000002,
+              1778729.6493999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44574,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.03,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 0,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081250.6415999997,
+              1778800.2292
+            ],
+            [
+              1081253.4938000003,
+              1778812.8027999997
+            ],
+            [
+              1081253.3975999998,
+              1778827.8621999994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44575,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.26,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 5,
+        "PMNTN_GODN": 3,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081250.6415999997,
+              1778800.2292
+            ],
+            [
+              1081270.0960999997,
+              1778795.1027000006
+            ],
+            [
+              1081287.8328,
+              1778795.0117000006
+            ],
+            [
+              1081306.2351000002,
+              1778786.4034000002
+            ],
+            [
+              1081318.2814999996,
+              1778783.5035999995
+            ],
+            [
+              1081331.7758,
+              1778786.2723999992
+            ],
+            [
+              1081353.8092,
+              1778793.9636000004
+            ],
+            [
+              1081375.8173000002,
+              1778796.6886
+            ],
+            [
+              1081385.0620999997,
+              1778800.8980999999
+            ],
+            [
+              1081410.6028000005,
+              1778800.767000001
+            ],
+            [
+              1081426.9460000005,
+              1778805.6495999992
+            ],
+            [
+              1081436.2236000001,
+              1778816.2442000005
+            ],
+            [
+              1081453.2907999996,
+              1778823.9608999994
+            ],
+            [
+              1081468.2296000002,
+              1778831.6886
+            ],
+            [
+              1081494.2401,
+              1778837.5219999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44576,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.18,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 3,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081253.3975999998,
+              1778827.8621999994
+            ],
+            [
+              1081265.3003000002,
+              1778836.6258000005
+            ],
+            [
+              1081297.4068,
+              1778846.0785000008
+            ],
+            [
+              1081316.0163000003,
+              1778849.1887999997
+            ],
+            [
+              1081345.5911999997,
+              1778865.0659999996
+            ],
+            [
+              1081371.9667999996,
+              1778882.2419000007
+            ],
+            [
+              1081403.1886,
+              1778901.7939
+            ],
+            [
+              1081405.9364999998,
+              1778910.4312999994
+            ],
+            [
+              1081409.6309000002,
+              1778915.4724000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44577,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.28,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 5,
+        "PMNTN_GODN": 3,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081253.3975999998,
+              1778827.8621999994
+            ],
+            [
+              1081261.5291,
+              1778851.3917999994
+            ],
+            [
+              1081275.7132,
+              1778866.7069000006
+            ],
+            [
+              1081289.2330999998,
+              1778877.5372000001
+            ],
+            [
+              1081296.3482,
+              1778889.6827000007
+            ],
+            [
+              1081298.9654,
+              1778899.9277999997
+            ],
+            [
+              1081303.4896,
+              1778906.9573999997
+            ],
+            [
+              1081315.0696999999,
+              1778914.5919000003
+            ],
+            [
+              1081320.8728,
+              1778920.9737
+            ],
+            [
+              1081325.4266999997,
+              1778933.773600001
+            ],
+            [
+              1081327.3960999995,
+              1778942.739600001
+            ],
+            [
+              1081332.5877999999,
+              1778954.8950999994
+            ],
+            [
+              1081340.9752000002,
+              1778965.1106000002
+            ],
+            [
+              1081348.1232000003,
+              1778983.6676000003
+            ],
+            [
+              1081348.8465999998,
+              1778999.6928000003
+            ],
+            [
+              1081350.2308999998,
+              1779019.5615999997
+            ],
+            [
+              1081352.3024000004,
+              1779048.4032000005
+            ],
+            [
+              1081355.8893999998,
+              1779075.8344999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44578,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.13,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081494.2401,
+              1778837.5219999999
+            ],
+            [
+              1081490.494,
+              1778845.1111999992
+            ],
+            [
+              1081484.6322999997,
+              1778861.9035
+            ],
+            [
+              1081469.5425000004,
+              1778871.7138999999
+            ],
+            [
+              1081460.4337999998,
+              1778887.9822000004
+            ],
+            [
+              1081457.7774,
+              1778897.1881000008
+            ],
+            [
+              1081451.8602,
+              1778903.1662000008
+            ],
+            [
+              1081442.1275000004,
+              1778903.2161999997
+            ],
+            [
+              1081428.1025999999,
+              1778909.7767999992
+            ],
+            [
+              1081409.6309000002,
+              1778915.4724000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44579,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.37,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 7,
+        "PMNTN_GODN": 5,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081409.6309000002,
+              1778915.4724000003
+            ],
+            [
+              1081421.7279000003,
+              1778931.9790000003
+            ],
+            [
+              1081439.2134999996,
+              1778967.5766000003
+            ],
+            [
+              1081454.5751999998,
+              1779010.7552000005
+            ],
+            [
+              1081466.5595000004,
+              1779027.9967
+            ],
+            [
+              1081474.7088000001,
+              1779035.5249000005
+            ],
+            [
+              1081488.2874999996,
+              1779047.3510999996
+            ],
+            [
+              1081518.1509999996,
+              1779071.5300999992
+            ],
+            [
+              1081543.1481999997,
+              1779095.7342000008
+            ],
+            [
+              1081568.1677,
+              1779124.2638000008
+            ],
+            [
+              1081569.8786000004,
+              1779141.5580000002
+            ],
+            [
+              1081570.0839,
+              1779181.5700000003
+            ],
+            [
+              1081570.3086,
+              1779225.3671000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44580,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "석전리구간",
+        "PMNTN_MAIN": "우방3차아파트~쉼터",
+        "PMNTN_LT": 0.13,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081719.7165,
+              1778962.4602000006
+            ],
+            [
+              1081729.9736000001,
+              1778965.0798000004
+            ],
+            [
+              1081734.9068,
+              1778971.7350999992
+            ],
+            [
+              1081738.5132,
+              1778980.1787
+            ],
+            [
+              1081743.0285,
+              1778992.1807000004
+            ],
+            [
+              1081744.8671000004,
+              1779003.3055000007
+            ],
+            [
+              1081751.6024000002,
+              1779013.960000001
+            ],
+            [
+              1081758.3605000004,
+              1779029.068
+            ],
+            [
+              1081765.1048999997,
+              1779041.5039000008
+            ],
+            [
+              1081772.7333000004,
+              1779052.5990999993
+            ],
+            [
+              1081780.3454999998,
+              1779060.5768
+            ],
+            [
+              1081786.5943,
+              1779063.2170000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44581,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "석전리구간",
+        "PMNTN_MAIN": "흥국사~분기점~쉼터",
+        "PMNTN_LT": 0.07,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 1,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081180.1536999997,
+              1778986.4529
+            ],
+            [
+              1081202.6332,
+              1778994.0315000005
+            ],
+            [
+              1081216.7581000002,
+              1778997.8059999999
+            ],
+            [
+              1081223.1694999998,
+              1778997.7730999999
+            ],
+            [
+              1081234.0426000003,
+              1778992.5879999995
+            ],
+            [
+              1081244.2910000002,
+              1778990.6119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44582,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.15,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 3,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081244.2910000002,
+              1778990.6119
+            ],
+            [
+              1081248.7487000003,
+              1779000.2865999993
+            ],
+            [
+              1081252.8322,
+              1779022.9867000002
+            ],
+            [
+              1081261.1770000001,
+              1779032.6815000009
+            ],
+            [
+              1081277.4504000004,
+              1779041.2536999993
+            ],
+            [
+              1081296.2593999999,
+              1779051.9767000005
+            ],
+            [
+              1081316.8882,
+              1779065.9363000002
+            ],
+            [
+              1081329.9119999995,
+              1779073.8038999997
+            ],
+            [
+              1081338.5877999999,
+              1779077.7265000008
+            ],
+            [
+              1081345.8043,
+              1779078.4108000007
+            ],
+            [
+              1081355.8893999998,
+              1779075.8344999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44583,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.18,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 3,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081641.3124000002,
+              1779045.7021999992
+            ],
+            [
+              1081639.4212999996,
+              1779024.3337999992
+            ],
+            [
+              1081639.3481,
+              1779010.0823
+            ],
+            [
+              1081640.1726000002,
+              1778997.1622000001
+            ],
+            [
+              1081644.1260000002,
+              1778986.4529
+            ],
+            [
+              1081649.8426,
+              1778972.171599999
+            ],
+            [
+              1081652.4644999998,
+              1778962.3598999996
+            ],
+            [
+              1081654.6297000004,
+              1778950.3236999996
+            ],
+            [
+              1081659.4715,
+              1778939.1645
+            ],
+            [
+              1081663.0160999997,
+              1778935.5833
+            ],
+            [
+              1081677.2654,
+              1778935.0647999998
+            ],
+            [
+              1081685.2978999997,
+              1778938.1412000004
+            ],
+            [
+              1081696.9094000002,
+              1778944.3169
+            ],
+            [
+              1081714.3355999999,
+              1778955.3618
+            ],
+            [
+              1081719.7165,
+              1778962.4602000006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44584,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.13,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 2,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081641.3124000002,
+              1779045.7021999992
+            ],
+            [
+              1081649.2444000002,
+              1779029.1824999992
+            ],
+            [
+              1081657.2106999997,
+              1779019.3434999995
+            ],
+            [
+              1081661.5751999998,
+              1779001.9514000006
+            ],
+            [
+              1081665.9488000004,
+              1778986.3409000002
+            ],
+            [
+              1081674.3740999997,
+              1778979.1717000008
+            ],
+            [
+              1081681.4726,
+              1778973.7907999996
+            ],
+            [
+              1081689.9046999998,
+              1778967.9576999992
+            ],
+            [
+              1081702.8042000001,
+              1778964.7739000004
+            ],
+            [
+              1081719.7165,
+              1778962.4602000006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44594,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.43,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 8,
+        "PMNTN_GODN": 5,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081933.9397,
+              1780590.9662999995
+            ],
+            [
+              1081920.5855999999,
+              1780571.6769999992
+            ],
+            [
+              1081914.6503999997,
+              1780544.9688000008
+            ],
+            [
+              1081901.2962999996,
+              1780530.1308999993
+            ],
+            [
+              1081864.2015000004,
+              1780507.8739999998
+            ],
+            [
+              1081818.2039,
+              1780487.1009
+            ],
+            [
+              1081790.0119000003,
+              1780479.682
+            ],
+            [
+              1081746.9819999998,
+              1780476.7142999992
+            ],
+            [
+              1081709.8871,
+              1780473.7467
+            ],
+            [
+              1081669.8247999996,
+              1780475.2304999996
+            ],
+            [
+              1081629.7624000004,
+              1780488.5846999995
+            ],
+            [
+              1081591.1837999998,
+              1780513.8091000002
+            ],
+            [
+              1081586.7324,
+              1780542.0011999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44585,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.27,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 5,
+        "PMNTN_GODN": 3,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081355.8893999998,
+              1779075.8344999999
+            ],
+            [
+              1081389.1502,
+              1779107.2007999998
+            ],
+            [
+              1081401.3943999996,
+              1779119.3200000003
+            ],
+            [
+              1081416.1900000004,
+              1779128.8615000006
+            ],
+            [
+              1081436.1083000004,
+              1779137.0943999998
+            ],
+            [
+              1081450.2758999998,
+              1779149.2036000006
+            ],
+            [
+              1081465.7423,
+              1779164.5121
+            ],
+            [
+              1081470.2632,
+              1779170.9004999995
+            ],
+            [
+              1081483.0992,
+              1779173.3992999997
+            ],
+            [
+              1081494.0051999995,
+              1779174.6256000008
+            ],
+            [
+              1081504.2635000004,
+              1779174.5730000008
+            ],
+            [
+              1081513.9134999998,
+              1779180.9351000004
+            ],
+            [
+              1081518.4606999997,
+              1779192.4526000004
+            ],
+            [
+              1081527.4927000003,
+              1779203.3059999999
+            ],
+            [
+              1081546.8191,
+              1779221.1592999995
+            ],
+            [
+              1081570.3086,
+              1779225.3671000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44586,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "국조전구간",
+        "PMNTN_MAIN": "국조전~분기점",
+        "PMNTN_LT": 0.96,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 24,
+        "PMNTN_GODN": 17,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1082352.9293999998,
+              1779102.5736999996
+            ],
+            [
+              1082352.8185999999,
+              1779106.0428999998
+            ],
+            [
+              1082351.8181999996,
+              1779110.5814999994
+            ],
+            [
+              1082350.3228000002,
+              1779114.887599999
+            ],
+            [
+              1082348.7777000004,
+              1779117.8746000007
+            ],
+            [
+              1082347.4403999997,
+              1779121.3712000009
+            ],
+            [
+              1082348.8395999996,
+              1779127.3139999993
+            ],
+            [
+              1082353.9501,
+              1779133.5905000009
+            ],
+            [
+              1082361.3672000002,
+              1779144.1202000007
+            ],
+            [
+              1082368.7040999997,
+              1779151.3823000006
+            ],
+            [
+              1082373.6119999997,
+              1779159.4678000007
+            ],
+            [
+              1082375.6958999997,
+              1779170.4066000003
+            ],
+            [
+              1082376.9812000003,
+              1779183.7828000002
+            ],
+            [
+              1082376.6629999997,
+              1779200.8169999998
+            ],
+            [
+              1082376.7213000003,
+              1779212.1718000006
+            ],
+            [
+              1082381.6541999998,
+              1779225.1238000002
+            ],
+            [
+              1082381.3006999996,
+              1779235.2640000004
+            ],
+            [
+              1082385.8594000004,
+              1779254.3008999992
+            ],
+            [
+              1082390.7944,
+              1779267.6582999993
+            ],
+            [
+              1082395.7023,
+              1779275.7438999992
+            ],
+            [
+              1082409.1243000003,
+              1779283.3802000005
+            ],
+            [
+              1082424.6174999997,
+              1779299.5221999995
+            ],
+            [
+              1082435.5959,
+              1779305.1434000004
+            ],
+            [
+              1082443.7335,
+              1779310.3737000003
+            ],
+            [
+              1082444.6028000005,
+              1779321.7243000008
+            ],
+            [
+              1082436.1409,
+              1779332.3116999995
+            ],
+            [
+              1082424.4283999996,
+              1779341.6991000008
+            ],
+            [
+              1082400.5855,
+              1779358.0429999996
+            ],
+            [
+              1082364.1754,
+              1779375.2624999993
+            ],
+            [
+              1082345.9746000003,
+              1779384.6832999997
+            ],
+            [
+              1082344.3942,
+              1779392.802100001
+            ],
+            [
+              1082337.5376000004,
+              1779400.1371
+            ],
+            [
+              1082326.5925000003,
+              1779401.0043000001
+            ],
+            [
+              1082316.8723999998,
+              1779403.487400001
+            ],
+            [
+              1082313.2684000004,
+              1779412.4277
+            ],
+            [
+              1082301.1171000004,
+              1779415.3288000003
+            ],
+            [
+              1082286.9923999999,
+              1779428.7840999998
+            ],
+            [
+              1082278.9276,
+              1779437.7473000009
+            ],
+            [
+              1082276.1700999998,
+              1779453.5774000008
+            ],
+            [
+              1082274.625,
+              1779468.5902999993
+            ],
+            [
+              1082273.4916000003,
+              1779484.8177000005
+            ],
+            [
+              1082274.3381000003,
+              1779491.7073999997
+            ],
+            [
+              1082267.5044999998,
+              1779503.5031000003
+            ],
+            [
+              1082261.4424,
+              1779507.5896000005
+            ],
+            [
+              1082254.6316,
+              1779523.8460000008
+            ],
+            [
+              1082246.989,
+              1779536.0514000002
+            ],
+            [
+              1082244.5996000003,
+              1779544.58
+            ],
+            [
+              1082247.8896000003,
+              1779553.4848999996
+            ],
+            [
+              1082248.3367999997,
+              1779561.5933999997
+            ],
+            [
+              1082244.7515000002,
+              1779574.1834999993
+            ],
+            [
+              1082238.7061,
+              1779581.5142
+            ],
+            [
+              1082233.0891000004,
+              1779593.3036000002
+            ],
+            [
+              1082225.0513000004,
+              1779607.5386999995
+            ],
+            [
+              1082214.2166,
+              1779629.8989000004
+            ],
+            [
+              1082199.7383000003,
+              1779653.4944000002
+            ],
+            [
+              1082195.7662000004,
+              1779669.7364000008
+            ],
+            [
+              1082188.9160000002,
+              1779678.2877999991
+            ],
+            [
+              1082176.4694999997,
+              1779702.6840000004
+            ],
+            [
+              1082164.3702999996,
+              1779715.7233000007
+            ],
+            [
+              1082160.3669999996,
+              1779725.8823000006
+            ],
+            [
+              1082153.1155000003,
+              1779735.2468999997
+            ],
+            [
+              1082150.3350999998,
+              1779746.6162
+            ],
+            [
+              1082147.5546000004,
+              1779757.9856000002
+            ],
+            [
+              1082145.1630999995,
+              1779766.1086
+            ],
+            [
+              1082136.7011000002,
+              1779776.6960000005
+            ],
+            [
+              1082130.2334000003,
+              1779780.7846000008
+            ],
+            [
+              1082125.8038999997,
+              1779786.8904
+            ],
+            [
+              1082123.4248000002,
+              1779797.4465999994
+            ],
+            [
+              1082121.8590000002,
+              1779808.4042000007
+            ],
+            [
+              1082120.6755999997,
+              1779814.8989000004
+            ],
+            [
+              1082120.7089,
+              1779821.3872999996
+            ],
+            [
+              1082120.7401,
+              1779827.4702000003
+            ],
+            [
+              1082123.6184,
+              1779835.1607000008
+            ],
+            [
+              1082127.3118000003,
+              1779843.6579999998
+            ],
+            [
+              1082130.2005000003,
+              1779853.3761
+            ],
+            [
+              1082129.8304000003,
+              1779860.2720999997
+            ],
+            [
+              1082118.1579,
+              1779872.6810999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44587,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.21,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 4,
+        "PMNTN_GODN": 3,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081570.3086,
+              1779225.3671000004
+            ],
+            [
+              1081588.3103999998,
+              1779218.7793000005
+            ],
+            [
+              1081594.0750000002,
+              1779213.8505000006
+            ],
+            [
+              1081603.3475000001,
+              1779198.2149
+            ],
+            [
+              1081613.0793000003,
+              1779185.2490999997
+            ],
+            [
+              1081616.5758999996,
+              1779172.3153000008
+            ],
+            [
+              1081616.5119000003,
+              1779159.8452000003
+            ],
+            [
+              1081625.7982,
+              1779146.8816
+            ],
+            [
+              1081629.7653,
+              1779138.8445999995
+            ],
+            [
+              1081631.4737,
+              1779124.5837999992
+            ],
+            [
+              1081631.8322,
+              1779107.6578000002
+            ],
+            [
+              1081632.2112999996,
+              1779094.7399000004
+            ],
+            [
+              1081633.8761999998,
+              1779072.0173000004
+            ],
+            [
+              1081641.3124000002,
+              1779045.7021999992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44588,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.27,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 5,
+        "PMNTN_GODN": 3,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081570.3086,
+              1779225.3671000004
+            ],
+            [
+              1081569.8068000004,
+              1779232.9397
+            ],
+            [
+              1081571.5760000004,
+              1779261.5887000002
+            ],
+            [
+              1081579.2402,
+              1779279.9337000009
+            ],
+            [
+              1081580.4463999998,
+              1779304.2599
+            ],
+            [
+              1081579.4677,
+              1779324.271400001
+            ],
+            [
+              1081591.9759999998,
+              1779338.265900001
+            ],
+            [
+              1081602.9211999997,
+              1779363.7587000001
+            ],
+            [
+              1081624.5182999996,
+              1779383.9246999994
+            ],
+            [
+              1081640.8704000004,
+              1779409.389799999
+            ],
+            [
+              1081666.9864999996,
+              1779440.8878000006
+            ],
+            [
+              1081686.1254000003,
+              1779456.1999999993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44589,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "석전리구간",
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 1.2,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 26,
+        "PMNTN_GODN": 18,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081686.1254000003,
+              1779456.1999999993
+            ],
+            [
+              1081667.0900999997,
+              1779447.6176999994
+            ],
+            [
+              1081643.2304999996,
+              1779436.1042999998
+            ],
+            [
+              1081617.7570000002,
+              1779419.3103
+            ],
+            [
+              1081596.0454000002,
+              1779414.1326000001
+            ],
+            [
+              1081585.4107,
+              1779403.0802999996
+            ],
+            [
+              1081573.1837999998,
+              1779390.9782999996
+            ],
+            [
+              1081548.8033999996,
+              1779381.0541999992
+            ],
+            [
+              1081526.5820000004,
+              1779379.5815999992
+            ],
+            [
+              1081507.0158000002,
+              1779380.2108999994
+            ],
+            [
+              1081502.0816000002,
+              1779380.7848000005
+            ],
+            [
+              1081492.744,
+              1779381.8708999995
+            ],
+            [
+              1081488.0994999995,
+              1779378.1941999998
+            ],
+            [
+              1081482.1228,
+              1779373.4628999997
+            ],
+            [
+              1081462.5269,
+              1779368.2743999995
+            ],
+            [
+              1081429.7087000003,
+              1779363.1538999993
+            ],
+            [
+              1081402.1656999998,
+              1779355.3616000004
+            ],
+            [
+              1081379.3691999996,
+              1779344.9005999994
+            ],
+            [
+              1081355.5204999996,
+              1779335.5028000008
+            ],
+            [
+              1081337.4406000003,
+              1779316.5550999995
+            ],
+            [
+              1081310.9419,
+              1779306.1130999997
+            ],
+            [
+              1081288.6715000002,
+              1779295.1204000004
+            ],
+            [
+              1081277.4265,
+              1779268.2040999997
+            ],
+            [
+              1081261.9530999996,
+              1779241.8384000007
+            ],
+            [
+              1081244.4426999995,
+              1779230.8213
+            ],
+            [
+              1081230.6563999997,
+              1779224.0163000003
+            ],
+            [
+              1081209.4384000003,
+              1779211.9605
+            ],
+            [
+              1081181.3151000002,
+              1779194.1220999993
+            ],
+            [
+              1081160.5933999997,
+              1779175.7169000003
+            ],
+            [
+              1081149.3971999995,
+              1779158.3205999993
+            ],
+            [
+              1081148.8004,
+              1779145.1010999996
+            ],
+            [
+              1081143.9780000001,
+              1779132.961100001
+            ],
+            [
+              1081134.9217999997,
+              1779120.3138999995
+            ],
+            [
+              1081122.6895000003,
+              1779107.1541000009
+            ],
+            [
+              1081110.4817000004,
+              1779098.7543000001
+            ],
+            [
+              1081105.1656999998,
+              1779093.4924999997
+            ],
+            [
+              1081102.4397999998,
+              1779077.6394999996
+            ],
+            [
+              1081094.4522000002,
+              1779067.1023999993
+            ],
+            [
+              1081083.8011999996,
+              1779052.8767000008
+            ],
+            [
+              1081076.3153,
+              1779037.0481000002
+            ],
+            [
+              1081065.6426,
+              1779018.5912999995
+            ],
+            [
+              1081035.8946000002,
+              1778993.3566999994
+            ],
+            [
+              1081013.0844999999,
+              1778980.2511
+            ],
+            [
+              1080996.6563999997,
+              1778973.988500001
+            ],
+            [
+              1080980.7029,
+              1778957.1456000004
+            ],
+            [
+              1080970.0165999997,
+              1778936.0442999993
+            ],
+            [
+              1080958.8230999997,
+              1778919.1768999994
+            ],
+            [
+              1080938.6412000004,
+              1778902.8845000006
+            ],
+            [
+              1080913.1377999997,
+              1778880.2726000007
+            ],
+            [
+              1080904.0789,
+              1778867.0965
+            ],
+            [
+              1080895.5433999998,
+              1778852.8598999996
+            ],
+            [
+              1080881.2145999996,
+              1778843.4132000003
+            ],
+            [
+              1080870.5771000003,
+              1778831.8320000004
+            ],
+            [
+              1080857.8268,
+              1778820.7904000003
+            ],
+            [
+              1080856.7309999997,
+              1778813.3914
+            ],
+            [
+              1080856.1398,
+              1778801.2295999993
+            ],
+            [
+              1080848.6430000002,
+              1778783.2853999995
+            ],
+            [
+              1080840.0641,
+              1778760.5866999999
+            ],
+            [
+              1080826.2153000003,
+              1778741.6173
+            ],
+            [
+              1080823.0066999998,
+              1778734.7579999994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44590,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.65,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 11,
+        "PMNTN_GODN": 8,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081686.1254000003,
+              1779456.1999999993
+            ],
+            [
+              1081711.7215,
+              1779465.3959
+            ],
+            [
+              1081729.6085,
+              1779473.8204999994
+            ],
+            [
+              1081740.2521000002,
+              1779493.2317999993
+            ],
+            [
+              1081745.1996,
+              1779509.0222999994
+            ],
+            [
+              1081756.6520999996,
+              1779528.0239000004
+            ],
+            [
+              1081762.0135000004,
+              1779545.4344999995
+            ],
+            [
+              1081771.4446999999,
+              1779565.6630000006
+            ],
+            [
+              1081781.2189999996,
+              1779573.7236000001
+            ],
+            [
+              1081786.5491000004,
+              1779585.0513000004
+            ],
+            [
+              1081793.9027000004,
+              1779595.5574999992
+            ],
+            [
+              1081796.7893000003,
+              1779604.8701000009
+            ],
+            [
+              1081805.0121999998,
+              1779626.727
+            ],
+            [
+              1081813.2352,
+              1779648.583900001
+            ],
+            [
+              1081815.1213999996,
+              1779659.5534000006
+            ],
+            [
+              1081816.1612999998,
+              1779665.6015000008
+            ],
+            [
+              1081818.6339999996,
+              1779673.2939999998
+            ],
+            [
+              1081824.9809999997,
+              1779679.9688000008
+            ],
+            [
+              1081836.8351999996,
+              1779694.1294999998
+            ],
+            [
+              1081842.7037000004,
+              1779701.1525999997
+            ],
+            [
+              1081858.5776000004,
+              1779712.4263000004
+            ],
+            [
+              1081876.0902000004,
+              1779726.9356999993
+            ],
+            [
+              1081900.9335000003,
+              1779747.4905999992
+            ],
+            [
+              1081912.4770999998,
+              1779753.1886
+            ],
+            [
+              1081927.7670999998,
+              1779760.7357
+            ],
+            [
+              1081952.9409999996,
+              1779766.6896000002
+            ],
+            [
+              1081966.3879000004,
+              1779779.1922999993
+            ],
+            [
+              1081982.6755999997,
+              1779792.0858999994
+            ],
+            [
+              1081993.2505,
+              1779798.1147000007
+            ],
+            [
+              1082002.9998000003,
+              1779801.3090000004
+            ],
+            [
+              1082020.9053999996,
+              1779813.383199999
+            ],
+            [
+              1082027.4167999998,
+              1779817.8106999993
+            ],
+            [
+              1082029.4819,
+              1779825.0998
+            ],
+            [
+              1082029.9436999997,
+              1779836.0469000004
+            ],
+            [
+              1082036.0889999997,
+              1779848.1816000007
+            ],
+            [
+              1082044.2314,
+              1779857.7744999994
+            ],
+            [
+              1082055.2279000003,
+              1779863.4937999994
+            ],
+            [
+              1082067.4186000004,
+              1779868.297700001
+            ],
+            [
+              1082074.1555000003,
+              1779869.104699999
+            ],
+            [
+              1082083.6501000002,
+              1779870.2420000006
+            ],
+            [
+              1082106.3618,
+              1779870.5310999993
+            ],
+            [
+              1082117.3057000004,
+              1779874.8435999993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44591,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "아곡리구간",
+        "PMNTN_MAIN": "아곡리(안찔마을)~분기점",
+        "PMNTN_LT": 0.83,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 21,
+        "PMNTN_GODN": 15,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1082384.0648999996,
+              1780219.1795000006
+            ],
+            [
+              1082391.0483,
+              1780219.1487000007
+            ],
+            [
+              1082400.8652,
+              1780216.7854999993
+            ],
+            [
+              1082409.5021000002,
+              1780209.8029999994
+            ],
+            [
+              1082419.8408000004,
+              1780196.4518
+            ],
+            [
+              1082428.4658000004,
+              1780187.1566000003
+            ],
+            [
+              1082441.1113,
+              1780172.6371999998
+            ],
+            [
+              1082451.4263000004,
+              1780154.6605999991
+            ],
+            [
+              1082464.6321,
+              1780136.6691999994
+            ],
+            [
+              1082472.6730000004,
+              1780126.2206999995
+            ],
+            [
+              1082486.4984999998,
+              1780116.320699999
+            ],
+            [
+              1082513.613,
+              1780104.6177999992
+            ],
+            [
+              1082544.1311999997,
+              1780080.1776
+            ],
+            [
+              1082567.7767000003,
+              1780068.4925999995
+            ],
+            [
+              1082591.3924000002,
+              1780051.0259000007
+            ],
+            [
+              1082612.1381,
+              1780037.6214000005
+            ],
+            [
+              1082628.8158999998,
+              1780020.1903000008
+            ],
+            [
+              1082637.9567999998,
+              1779998.7507000007
+            ],
+            [
+              1082651.1864,
+              1779985.3846000005
+            ],
+            [
+              1082700.1672,
+              1779953.3332000002
+            ],
+            [
+              1082727.8301999997,
+              1779935.8457999993
+            ],
+            [
+              1082764.7824,
+              1779925.8269999996
+            ],
+            [
+              1082805.7609,
+              1779911.7403999995
+            ],
+            [
+              1082853.1023000004,
+              1779898.1993000004
+            ],
+            [
+              1082869.7741999999,
+              1779879.6119
+            ],
+            [
+              1082877.6934000002,
+              1779845.4585999995
+            ],
+            [
+              1082895.4385000002,
+              1779810.6766999997
+            ],
+            [
+              1082910.954,
+              1779792.0953000002
+            ],
+            [
+              1082921.2808999997,
+              1779776.4312999994
+            ],
+            [
+              1082922.9293,
+              1779759.6556000002
+            ],
+            [
+              1082926.8844999997,
+              1779741.7116999999
+            ],
+            [
+              1082933.7187,
+              1779721.4403000008
+            ],
+            [
+              1082959.5461999997,
+              1779684.3041999992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44592,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": "아곡리구간",
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 1.53,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 27,
+        "PMNTN_GODN": 19,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1082384.0648999996,
+              1780219.1795000006
+            ],
+            [
+              1082389.3969,
+              1780235.3462000005
+            ],
+            [
+              1082390.7589999996,
+              1780254.7020999994
+            ],
+            [
+              1082391.2679000003,
+              1780261.9330000002
+            ],
+            [
+              1082394.9060000004,
+              1780276.4916999992
+            ],
+            [
+              1082397.7611999996,
+              1780287.9178
+            ],
+            [
+              1082411.75,
+              1780309.8169
+            ],
+            [
+              1082429.2582,
+              1780341.5270000007
+            ],
+            [
+              1082438.0730999997,
+              1780369.2344000004
+            ],
+            [
+              1082449.7521000002,
+              1780391.7236000001
+            ],
+            [
+              1082458.9910000004,
+              1780411.0307999998
+            ],
+            [
+              1082460.2112999996,
+              1780413.5810000002
+            ],
+            [
+              1082472.4610000001,
+              1780422.8288000003
+            ],
+            [
+              1082498.5050999997,
+              1780427.8987000007
+            ],
+            [
+              1082518.7706000004,
+              1780433.5766000003
+            ],
+            [
+              1082527.2183999997,
+              1780439.7673000004
+            ],
+            [
+              1082534.4403999997,
+              1780445.0596999992
+            ],
+            [
+              1082539.6505000005,
+              1780455.8113000002
+            ],
+            [
+              1082540.8832,
+              1780458.3553999998
+            ],
+            [
+              1082554.8781000003,
+              1780484.2711999994
+            ],
+            [
+              1082568.8431000002,
+              1780501.5449
+            ],
+            [
+              1082585.1118,
+              1780517.0723
+            ],
+            [
+              1082604.2090999996,
+              1780520.4432999995
+            ],
+            [
+              1082623.3420000002,
+              1780530.7523999996
+            ],
+            [
+              1082629.4354999997,
+              1780534.7697
+            ],
+            [
+              1082642.4868,
+              1780543.3740999997
+            ],
+            [
+              1082658.1744999997,
+              1780558.3263000008
+            ],
+            [
+              1082677.9447999997,
+              1780580.195699999
+            ],
+            [
+              1082685.0217000004,
+              1780591.5132
+            ],
+            [
+              1082697.7657000003,
+              1780611.8939999994
+            ],
+            [
+              1082718.0757,
+              1780626.2442000005
+            ],
+            [
+              1082734.9435,
+              1780645.8157000002
+            ],
+            [
+              1082741.1601999998,
+              1780647.8526000008
+            ],
+            [
+              1082752.3180999998,
+              1780651.5084000006
+            ],
+            [
+              1082765.6158999996,
+              1780651.4401999991
+            ],
+            [
+              1082792.8312999997,
+              1780659.3949999996
+            ],
+            [
+              1082835.2066000002,
+              1780692.1338
+            ],
+            [
+              1082858.2857999997,
+              1780707.0171000008
+            ],
+            [
+              1082861.8912000004,
+              1780709.3421999998
+            ],
+            [
+              1082864.3463000003,
+              1780711.1086
+            ],
+            [
+              1082887.4255,
+              1780727.7128999997
+            ],
+            [
+              1082909.562,
+              1780759.977499999
+            ],
+            [
+              1082934.0497000003,
+              1780799.7463000007
+            ],
+            [
+              1082946.7692,
+              1780820.7007999998
+            ],
+            [
+              1082948.2362000002,
+              1780823.1173999999
+            ],
+            [
+              1082964.8677000003,
+              1780833.7007
+            ],
+            [
+              1082982.8026,
+              1780835.9212999996
+            ],
+            [
+              1083001.8880000003,
+              1780836.9798000008
+            ],
+            [
+              1083009.9585999995,
+              1780832.3128999993
+            ],
+            [
+              1083014.5513000004,
+              1780825.929300001
+            ],
+            [
+              1083031.2944,
+              1780821.2179000005
+            ],
+            [
+              1083055.0437000003,
+              1780829.7687
+            ],
+            [
+              1083098.7944999998,
+              1780836.0249000005
+            ],
+            [
+              1083123.3355,
+              1780842.7162999995
+            ],
+            [
+              1083143.6040000003,
+              1780848.9723000005
+            ],
+            [
+              1083166.6535,
+              1780852.0154
+            ],
+            [
+              1083173.1112000002,
+              1780852.8680000007
+            ],
+            [
+              1083185.9698,
+              1780852.3073999994
+            ],
+            [
+              1083188.7942000004,
+              1780852.1841000002
+            ],
+            [
+              1083203.1402000003,
+              1780845.7756999992
+            ],
+            [
+              1083223.3463000003,
+              1780839.8902000003
+            ],
+            [
+              1083250.5201000003,
+              1780839.7507000007
+            ],
+            [
+              1083276.5761000002,
+              1780847.133199999
+            ],
+            [
+              1083305.517,
+              1780853.3446999993
+            ],
+            [
+              1083318.0102000004,
+              1780857.2719
+            ],
+            [
+              1083320.7072,
+              1780858.1196999997
+            ],
+            [
+              1083329.8326000003,
+              1780859.5798000004
+            ],
+            [
+              1083345.9737999998,
+              1780850.2460999992
+            ],
+            [
+              1083370.6716999998,
+              1780818.3193999995
+            ],
+            [
+              1083380.9628999997,
+              1780795.7174999993
+            ],
+            [
+              1083390.1364000002,
+              1780780.6377000008
+            ],
+            [
+              1083407.9883000003,
+              1780766.6697000004
+            ],
+            [
+              1083431.0258999998,
+              1780749.2060000002
+            ],
+            [
+              1083448.9252000004,
+              1780744.4887000006
+            ],
+            [
+              1083452.329,
+              1780731.7512999997
+            ],
+            [
+              1083451.6736000003,
+              1780716.7218999993
+            ],
+            [
+              1083448.6967000002,
+              1780699.9700000007
+            ],
+            [
+              1083448.5958000002,
+              1780680.3123000003
+            ],
+            [
+              1083445.6308000004,
+              1780665.8729999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44593,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.73,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 16,
+        "PMNTN_GODN": 11,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1082169.7098000003,
+              1779965.9129000008
+            ],
+            [
+              1082128.3164,
+              1779988.5468000006
+            ],
+            [
+              1082119.4137000004,
+              1780007.836100001
+            ],
+            [
+              1082109.0272000004,
+              1780046.4146999996
+            ],
+            [
+              1082101.6083000004,
+              1780070.1553000007
+            ],
+            [
+              1082086.7702000001,
+              1780102.798800001
+            ],
+            [
+              1082058.5782000003,
+              1780126.5394000001
+            ],
+            [
+              1082037.8051000005,
+              1780136.926000001
+            ],
+            [
+              1082006.6454999996,
+              1780166.6018000003
+            ],
+            [
+              1082005.1618,
+              1780182.9235999994
+            ],
+            [
+              1082005.1617,
+              1780203.6965999994
+            ],
+            [
+              1082009.6130999997,
+              1780239.3076000009
+            ],
+            [
+              1082012.5806999998,
+              1780261.5645000003
+            ],
+            [
+              1082027.4186000004,
+              1780289.7566
+            ],
+            [
+              1082030.3861999996,
+              1780304.5944999997
+            ],
+            [
+              1082024.4510000004,
+              1780378.784
+            ],
+            [
+              1081994.7752,
+              1780417.3626000006
+            ],
+            [
+              1081988.8399999999,
+              1780481.1656999998
+            ],
+            [
+              1081974.0021000002,
+              1780530.1308999993
+            ],
+            [
+              1081959.1642000005,
+              1780561.2905000001
+            ],
+            [
+              1081933.9397,
+              1780590.9662999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44595,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.66,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 12,
+        "PMNTN_GODN": 8,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1081933.9397,
+              1780590.9662999995
+            ],
+            [
+              1081896.8449,
+              1780623.6097
+            ],
+            [
+              1081893.8773999996,
+              1780657.7369999997
+            ],
+            [
+              1081907.2314,
+              1780690.3804000001
+            ],
+            [
+              1081904.2638999997,
+              1780739.3454999998
+            ],
+            [
+              1081899.8125,
+              1780755.6673000008
+            ],
+            [
+              1081889.426,
+              1780785.3431000002
+            ],
+            [
+              1081856.7825999996,
+              1780812.0513000004
+            ],
+            [
+              1081847.8798000002,
+              1780825.4055000003
+            ],
+            [
+              1081837.4932000004,
+              1780843.2109999992
+            ],
+            [
+              1081824.1391000003,
+              1780855.0812999997
+            ],
+            [
+              1081801.8822999997,
+              1780859.5327000003
+            ],
+            [
+              1081784.0768,
+              1780855.0812999997
+            ],
+            [
+              1081758.8521999996,
+              1780834.3081999999
+            ],
+            [
+              1081727.6925999997,
+              1780815.0188999996
+            ],
+            [
+              1081695.0493,
+              1780807.5999999996
+            ],
+            [
+              1081663.8896000003,
+              1780798.6972000003
+            ],
+            [
+              1081640.1489000004,
+              1780785.3430000003
+            ],
+            [
+              1081635.6975999996,
+              1780769.021400001
+            ],
+            [
+              1081644.6002000002,
+              1780737.8618
+            ],
+            [
+              1081656.4707000004,
+              1780693.3479999993
+            ],
+            [
+              1081660.9220000003,
+              1780660.704500001
+            ],
+            [
+              1081653.5031000003,
+              1780642.8991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44596,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.12,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 2,
+        "PMNTN_GODN": 1,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1082117.3057000004,
+              1779874.8435999993
+            ],
+            [
+              1082126.6798,
+              1779878.5374999996
+            ],
+            [
+              1082138.881,
+              1779885.3690000009
+            ],
+            [
+              1082153.5658999998,
+              1779899.3529000003
+            ],
+            [
+              1082153.5081000002,
+              1779902.1794000007
+            ],
+            [
+              1082153.2306000004,
+              1779915.7107999995
+            ],
+            [
+              1082152.0993,
+              1779932.3435999993
+            ],
+            [
+              1082152.1326000001,
+              1779938.8321000002
+            ],
+            [
+              1082159.4737,
+              1779946.9052000009
+            ],
+            [
+              1082165.5982,
+              1779954.9845000003
+            ],
+            [
+              1082169.7098000003,
+              1779965.9129000008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 44597,
+        "MNTN_CODE": "478503001",
+        "MNTN_NM": "작오산",
+        "PMNTN_NM": null,
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 0.35,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 6,
+        "PMNTN_GODN": 4,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "478503001"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1082169.7098000003,
+              1779965.9129000008
+            ],
+            [
+              1082182.3351999996,
+              1779976.3921000008
+            ],
+            [
+              1082199.0253999997,
+              1779997.0473999996
+            ],
+            [
+              1082200.8517000005,
+              1779998.2710999995
+            ],
+            [
+              1082200.8662,
+              1780001.0980999991
+            ],
+            [
+              1082200.9571000002,
+              1780018.805400001
+            ],
+            [
+              1082207.9851000002,
+              1780036.8047000002
+            ],
+            [
+              1082216.7495999997,
+              1780054.6832999997
+            ],
+            [
+              1082227.8356999997,
+              1780074.2846000008
+            ],
+            [
+              1082247.5735,
+              1780089.7942999993
+            ],
+            [
+              1082258.7235000003,
+              1780102.668299999
+            ],
+            [
+              1082261.2890999997,
+              1780105.0993000008
+            ],
+            [
+              1082262.1007000003,
+              1780107.8073999994
+            ],
+            [
+              1082267.4150999999,
+              1780125.5396999996
+            ],
+            [
+              1082279.1179999998,
+              1780152.6541000009
+            ],
+            [
+              1082292.5197,
+              1780172.8216999993
+            ],
+            [
+              1082314.5581999999,
+              1780186.0067999996
+            ],
+            [
+              1082330.7735000001,
+              1780191.1271000002
+            ],
+            [
+              1082345.8622000003,
+              1780202.0351
+            ],
+            [
+              1082354.5674,
+              1780208.3504000008
+            ],
+            [
+              1082365.5851999996,
+              1780214.6538999993
+            ],
+            [
+              1082378.9038000004,
+              1780218.6327999998
+            ],
+            [
+              1082383.9970000004,
+              1780219.1723999996
+            ],
+            [
+              1082384.0648999996,
+              1780219.1795000006
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

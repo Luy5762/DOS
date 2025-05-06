@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "name": "저도비치로드",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:ESRI::102080"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PMNTN_SN": 45689,
+        "MNTN_CODE": "481100304",
+        "MNTN_NM": "저도비치로드",
+        "PMNTN_NM": "구복리구간",
+        "PMNTN_MAIN": null,
+        "PMNTN_LT": 1.1,
+        "PMNTN_DFFL": "쉬움",
+        "PMNTN_UPPL": 19,
+        "PMNTN_GODN": 14,
+        "PMNTN_MTRQ": null,
+        "PMNTN_CNRL": null,
+        "PMNTN_CLS": null,
+        "PMNTN_RISK": null,
+        "PMNTN_RECO": null,
+        "DATA_STDR": "2016-12-31",
+        "MNTN_ID": "481100304"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1096875.029,
+              1675137.5949000008
+            ],
+            [
+              1096926.4584999997,
+              1675210.0865000002
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
