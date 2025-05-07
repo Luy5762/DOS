@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>One-Shot Clock Generator</title>
+  <style>
+    body { display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+    canvas { display: none; }
+    button { margin-top: 20px; padding: 10px 20px; font-size: 16px; }
+  </style>
+</head>
+<body>
+  <button id="saveBtn">Save Clock PNG</button>
+  <script>
+    /**
+     * Generates a clock image as a PNG data URL.
+     * @param {Object} params
+     * @param {number[]} params.grayHours - Hours to draw in gray (1-12).
+     * @param {number} params.bodyHour - Hour for the red body line (1-12).
+     * @param {number} params.arrowHour - Hour for the red arrow (1-12).
+     * @param {Object} [options]
+     * @param {number} [options.size=600] - Canvas size in pixels.
+     * @returns {string} PNG data URL of the generated clock.
+     */
+    function generateClockPNG({ grayHours, bodyHour, arrowHour }, options = {}) {
+      const size = options.size || 600;
+      const lengthRatio = 0.8;
+      const linewidthGray = 12;
+      const linewidth = 15;
+      const headWidthRatio = 0.1;
+      const headLengthRatio = 0.1;
+
+      const canvas = document.createElement('canvas');
+      canvas.width = size;
+      canvas.height = size;
+      const ctx = canvas.getContext('2d');
+      const cx = size / 2;
+      const cy = size / 2;
+      const radius = Math.min(cx, cy);
+      ctx.lineCap = 'round';
+
+      // Draw gray ticks
+      ctx.strokeStyle = 'gray';
+      ctx.lineWidth = linewidthGray;
+      grayHours.forEach(h => {
+        const angle = (90 - h * 30) * Math.PI / 180;
+        const dx = lengthRatio * radius * Math.cos(angle);
+        const dy = lengthRatio * radius * Math.sin(angle);
+        ctx.beginPath();
+        ctx.moveTo(cx, cy);
+        ctx.lineTo(cx + dx, cy - dy);
+        ctx.stroke();
+      });
+
+      // Draw red body line
+      ctx.strokeStyle = 'red';
+      ctx.lineWidth = linewidth;
+      {
+        const angle = (90 - bodyHour * 30) * Math.PI / 180;
+        const dx = lengthRatio * radius * Math.cos(angle);
+        const dy = lengthRatio * radius * Math.sin(angle);
+        ctx.beginPath();
+        ctx.moveTo(cx, cy);
+        ctx.lineTo(cx + dx, cy - dy);
+        ctx.stroke();
+      }
+
+      // Draw red arrow
+      const angle = (90 - arrowHour * 30) * Math.PI / 180;
+      const dx = lengthRatio * radius * Math.cos(angle);
+      const dy = lengthRatio * radius * Math.sin(angle);
+      const ex = cx + dx;
+      const ey = cy - dy;
+      ctx.strokeStyle = 'red';
+      ctx.lineWidth = linewidth;
+      ctx.beginPath();
+      ctx.moveTo(cx, cy);
+      ctx.lineTo(ex, ey);
+      ctx.stroke();
+      const headLength = headLengthRatio * radius;
+      const headWidth = headWidthRatio * radius;
+      const backX = ex - headLength * Math.cos(angle);
+      const backY = ey + headLength * Math.sin(angle);
+      const leftX = backX + (headWidth / 2) * Math.sin(angle);
+      const leftY = backY + (headWidth / 2) * Math.cos(angle);
+      const rightX = backX - (headWidth / 2) * Math.sin(angle);
+      const rightY = backY - (headWidth / 2) * Math.cos(angle);
+      ctx.fillStyle = 'red';
+      ctx.beginPath();
+      ctx.moveTo(ex, ey);
+      ctx.lineTo(leftX, leftY);
+      ctx.lineTo(rightX, rightY);
+      ctx.closePath();
+      ctx.fill();
+
+      return canvas.toDataURL('image/png');
+    }
+
+    /**
+     * Saves the generated clock PNG locally by triggering a download.
+     * @param {Object} params - Same as generateClockPNG params.
+     * @param {Object} [options]
+     * @param {string} [options.filename='one_shot_clock.png'] - The download filename.
+     */
+    function saveClockPNG(params, options = {}) {
+      const dataUrl = generateClockPNG(params, options);
+      const link = document.createElement('a');
+      link.href = dataUrl;
+      link.download = options.filename || 'one_shot_clock.png';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+
+    // 버튼 클릭 시 예시 파라미터로 저장
+    document.getElementById('saveBtn').addEventListener('click', () => {
+      saveClockPNG(
+        { grayHours: [8, 11], bodyHour: 6, arrowHour: 3 },
+        { size: 600, filename: 'one_shot_clock.png' }
+      );
+    });
+  </script>
+</body>
+</html>

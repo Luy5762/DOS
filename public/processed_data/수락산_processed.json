@@ -77,7 +77,8 @@
             ]
         ],
         "starting_point_direction": 118.66935589055922,
-        "ending_point_direction": 155.21497163192396
+        "ending_point_direction": 155.21497163192396,
+        "difficulty": 0
     },
     {
         "id": 2,
@@ -169,7 +170,8 @@
             ]
         ],
         "starting_point_direction": 63.542868815198396,
-        "ending_point_direction": 110.9587852087359
+        "ending_point_direction": 110.9587852087359,
+        "difficulty": 0
     },
     {
         "id": 3,
@@ -225,7 +227,8 @@
             ]
         ],
         "starting_point_direction": 43.2199776332001,
-        "ending_point_direction": 87.13568840978982
+        "ending_point_direction": 87.13568840978982,
+        "difficulty": 3
     },
     {
         "id": 4,
@@ -269,7 +272,8 @@
             ]
         ],
         "starting_point_direction": 137.70777239897748,
-        "ending_point_direction": 137.2040214620727
+        "ending_point_direction": 137.2040214620727,
+        "difficulty": 3
     },
     {
         "id": 5,
@@ -301,7 +305,8 @@
             ]
         ],
         "starting_point_direction": 23.893600648774743,
-        "ending_point_direction": 29.257457951348073
+        "ending_point_direction": 29.257457951348073,
+        "difficulty": 0
     },
     {
         "id": 6,
@@ -353,7 +358,8 @@
             ]
         ],
         "starting_point_direction": 127.34408900612766,
-        "ending_point_direction": 94.36536987176619
+        "ending_point_direction": 94.36536987176619,
+        "difficulty": 3
     },
     {
         "id": 7,
@@ -409,7 +415,8 @@
             ]
         ],
         "starting_point_direction": 90.49646724273907,
-        "ending_point_direction": 77.9897012428467
+        "ending_point_direction": 77.9897012428467,
+        "difficulty": 0
     },
     {
         "id": 8,
@@ -569,7 +576,8 @@
             ]
         ],
         "starting_point_direction": 166.1449547854145,
-        "ending_point_direction": 80.36977464100454
+        "ending_point_direction": 80.36977464100454,
+        "difficulty": 1
     },
     {
         "id": 9,
@@ -605,7 +613,8 @@
             ]
         ],
         "starting_point_direction": -116.16933130968233,
-        "ending_point_direction": -144.3959713015286
+        "ending_point_direction": -144.3959713015286,
+        "difficulty": 2
     },
     {
         "id": 10,
@@ -1129,7 +1138,8 @@
             ]
         ],
         "starting_point_direction": -42.12407983776788,
-        "ending_point_direction": 21.783324639151072
+        "ending_point_direction": 21.783324639151072,
+        "difficulty": 1
     },
     {
         "id": 11,
@@ -1193,7 +1203,8 @@
             ]
         ],
         "starting_point_direction": 23.778579587733777,
-        "ending_point_direction": -9.856445624092594
+        "ending_point_direction": -9.856445624092594,
+        "difficulty": 2
     },
     {
         "id": 12,
@@ -1545,7 +1556,8 @@
             ]
         ],
         "starting_point_direction": 127.27504340577258,
-        "ending_point_direction": 133.6714607506925
+        "ending_point_direction": 133.6714607506925,
+        "difficulty": 1
     },
     {
         "id": 13,
@@ -1625,7 +1637,8 @@
             ]
         ],
         "starting_point_direction": -68.32946787998222,
-        "ending_point_direction": -34.34080422375184
+        "ending_point_direction": -34.34080422375184,
+        "difficulty": 2
     },
     {
         "id": 14,
@@ -1737,7 +1750,8 @@
             ]
         ],
         "starting_point_direction": 167.00918035958625,
-        "ending_point_direction": -102.83438875091088
+        "ending_point_direction": -102.83438875091088,
+        "difficulty": 2
     },
     {
         "id": 15,
@@ -1825,7 +1839,8 @@
             ]
         ],
         "starting_point_direction": -85.69027384870034,
-        "ending_point_direction": -63.805455104516724
+        "ending_point_direction": -63.805455104516724,
+        "difficulty": 0
     },
     {
         "id": 16,
@@ -2325,7 +2340,8 @@
             ]
         ],
         "starting_point_direction": 117.92993414704621,
-        "ending_point_direction": 35.62672296186329
+        "ending_point_direction": 35.62672296186329,
+        "difficulty": 1
     },
     {
         "id": 17,
@@ -2353,7 +2369,8 @@
             ]
         ],
         "starting_point_direction": 145.5159822502963,
-        "ending_point_direction": 145.5159822502963
+        "ending_point_direction": 145.5159822502963,
+        "difficulty": 1
     },
     {
         "id": 18,
@@ -3813,7 +3830,8 @@
             ]
         ],
         "starting_point_direction": 74.7085224123626,
-        "ending_point_direction": 86.4435250482802
+        "ending_point_direction": 86.4435250482802,
+        "difficulty": 0
     },
     {
         "id": 19,
@@ -6109,7 +6127,8 @@
             ]
         ],
         "starting_point_direction": 94.83927069751145,
-        "ending_point_direction": -125.76873842666463
+        "ending_point_direction": -125.76873842666463,
+        "difficulty": 1
     },
     {
         "id": 20,
@@ -8813,7 +8832,8 @@
             ]
         ],
         "starting_point_direction": -93.64197738432797,
-        "ending_point_direction": -112.79963574977842
+        "ending_point_direction": -112.79963574977842,
+        "difficulty": 0
     },
     {
         "id": 21,
@@ -10133,7 +10153,8 @@
             ]
         ],
         "starting_point_direction": 168.2166132053347,
-        "ending_point_direction": -143.36541551853657
+        "ending_point_direction": -143.36541551853657,
+        "difficulty": 1
     },
     {
         "id": 22,
@@ -10385,7 +10406,8 @@
             ]
         ],
         "starting_point_direction": -131.10785363434093,
-        "ending_point_direction": -108.21671385678462
+        "ending_point_direction": -108.21671385678462,
+        "difficulty": 2
     },
     {
         "id": 23,
@@ -12741,7 +12763,8 @@
             ]
         ],
         "starting_point_direction": 62.855351659196174,
-        "ending_point_direction": 23.008869715207027
+        "ending_point_direction": 23.008869715207027,
+        "difficulty": 1
     },
     {
         "id": 24,
@@ -14821,7 +14844,8 @@
             ]
         ],
         "starting_point_direction": -52.42990468076034,
-        "ending_point_direction": 173.32653209934657
+        "ending_point_direction": 173.32653209934657,
+        "difficulty": 2
     },
     {
         "id": 25,
@@ -17321,7 +17345,8 @@
             ]
         ],
         "starting_point_direction": -138.92294198167593,
-        "ending_point_direction": 169.5093261225573
+        "ending_point_direction": 169.5093261225573,
+        "difficulty": 0
     },
     {
         "id": 26,
@@ -18693,7 +18718,8 @@
             ]
         ],
         "starting_point_direction": 142.8151333334802,
-        "ending_point_direction": -164.06889948534607
+        "ending_point_direction": -164.06889948534607,
+        "difficulty": 1
     },
     {
         "id": 27,
@@ -19373,7 +19399,8 @@
             ]
         ],
         "starting_point_direction": 72.11572839211178,
-        "ending_point_direction": -108.59566364192243
+        "ending_point_direction": -108.59566364192243,
+        "difficulty": 1
     },
     {
         "id": 28,
@@ -20693,7 +20720,8 @@
             ]
         ],
         "starting_point_direction": -66.52352883431138,
-        "ending_point_direction": 171.36949572965705
+        "ending_point_direction": 171.36949572965705,
+        "difficulty": 0
     },
     {
         "id": 29,
@@ -20825,7 +20853,8 @@
             ]
         ],
         "starting_point_direction": -160.2370010561497,
-        "ending_point_direction": -137.00211920890638
+        "ending_point_direction": -137.00211920890638,
+        "difficulty": 1
     },
     {
         "id": 30,
@@ -20941,7 +20970,8 @@
             ]
         ],
         "starting_point_direction": -32.23050273387628,
-        "ending_point_direction": 27.67396661501184
+        "ending_point_direction": 27.67396661501184,
+        "difficulty": 2
     },
     {
         "id": 31,
@@ -20969,7 +20999,8 @@
             ]
         ],
         "starting_point_direction": -105.73297254855206,
-        "ending_point_direction": -105.73297254855206
+        "ending_point_direction": -105.73297254855206,
+        "difficulty": 3
     },
     {
         "id": 32,
@@ -21669,7 +21700,8 @@
             ]
         ],
         "starting_point_direction": -154.74874016394182,
-        "ending_point_direction": -174.449037111193
+        "ending_point_direction": -174.449037111193,
+        "difficulty": 1
     },
     {
         "id": 33,
@@ -22633,7 +22665,8 @@
             ]
         ],
         "starting_point_direction": -112.29137134869038,
-        "ending_point_direction": -120.82563312886742
+        "ending_point_direction": -120.82563312886742,
+        "difficulty": 1
     },
     {
         "id": 34,
@@ -22717,7 +22750,8 @@
             ]
         ],
         "starting_point_direction": 108.78690982045,
-        "ending_point_direction": 157.88131284537812
+        "ending_point_direction": 157.88131284537812,
+        "difficulty": 0
     },
     {
         "id": 35,
@@ -22793,7 +22827,8 @@
             ]
         ],
         "starting_point_direction": -87.23075360066046,
-        "ending_point_direction": -18.644187075203668
+        "ending_point_direction": -18.644187075203668,
+        "difficulty": 2
     },
     {
         "id": 36,
@@ -23633,7 +23668,8 @@
             ]
         ],
         "starting_point_direction": -153.88921356647543,
-        "ending_point_direction": -48.16863852648321
+        "ending_point_direction": -48.16863852648321,
+        "difficulty": 1
     },
     {
         "id": 37,
@@ -24629,7 +24665,8 @@
             ]
         ],
         "starting_point_direction": -134.8932136817913,
-        "ending_point_direction": 163.91316959969444
+        "ending_point_direction": 163.91316959969444,
+        "difficulty": 0
     },
     {
         "id": 38,
@@ -24705,7 +24742,8 @@
             ]
         ],
         "starting_point_direction": 22.907089261279204,
-        "ending_point_direction": 4.841962226236312
+        "ending_point_direction": 4.841962226236312,
+        "difficulty": 0
     },
     {
         "id": 39,
@@ -25641,7 +25679,8 @@
             ]
         ],
         "starting_point_direction": -143.36508890627425,
-        "ending_point_direction": -120.53704461376583
+        "ending_point_direction": -120.53704461376583,
+        "difficulty": 1
     },
     {
         "id": 40,
@@ -25737,7 +25776,8 @@
             ]
         ],
         "starting_point_direction": -14.927829442414106,
-        "ending_point_direction": 12.138428153641387
+        "ending_point_direction": 12.138428153641387,
+        "difficulty": 0
     },
     {
         "id": 41,
@@ -25777,7 +25817,8 @@
             ]
         ],
         "starting_point_direction": 7.135730966753631,
-        "ending_point_direction": 10.76982629696352
+        "ending_point_direction": 10.76982629696352,
+        "difficulty": 0
     },
     {
         "id": 42,
@@ -25821,7 +25862,8 @@
             ]
         ],
         "starting_point_direction": 125.99092374978011,
-        "ending_point_direction": 124.99937703974096
+        "ending_point_direction": 124.99937703974096,
+        "difficulty": 0
     },
     {
         "id": 43,
@@ -26397,7 +26439,8 @@
             ]
         ],
         "starting_point_direction": -36.60577664834743,
-        "ending_point_direction": 38.29664474356578
+        "ending_point_direction": 38.29664474356578,
+        "difficulty": 1
     },
     {
         "id": 44,
@@ -26425,7 +26468,8 @@
             ]
         ],
         "starting_point_direction": 60.929414923038635,
-        "ending_point_direction": 60.929414923038635
+        "ending_point_direction": 60.929414923038635,
+        "difficulty": 3
     },
     {
         "id": 45,
@@ -26477,7 +26521,8 @@
             ]
         ],
         "starting_point_direction": 29.25509057413632,
-        "ending_point_direction": 38.8280795246001
+        "ending_point_direction": 38.8280795246001,
+        "difficulty": 0
     },
     {
         "id": 46,
@@ -26549,7 +26594,8 @@
             ]
         ],
         "starting_point_direction": 77.98837329794988,
-        "ending_point_direction": 52.942018438420725
+        "ending_point_direction": 52.942018438420725,
+        "difficulty": 0
     },
     {
         "id": 47,
@@ -26577,7 +26623,8 @@
             ]
         ],
         "starting_point_direction": -50.56154788666461,
-        "ending_point_direction": -50.56154788666461
+        "ending_point_direction": -50.56154788666461,
+        "difficulty": 3
     },
     {
         "id": 48,
@@ -26629,7 +26676,8 @@
             ]
         ],
         "starting_point_direction": -9.85601406682218,
-        "ending_point_direction": -40.71281077341403
+        "ending_point_direction": -40.71281077341403,
+        "difficulty": 2
     },
     {
         "id": 49,
@@ -26673,7 +26721,8 @@
             ]
         ],
         "starting_point_direction": -102.43370338308846,
-        "ending_point_direction": -85.68971270654835
+        "ending_point_direction": -85.68971270654835,
+        "difficulty": 0
     },
     {
         "id": 50,
@@ -26745,7 +26794,8 @@
             ]
         ],
         "starting_point_direction": 35.626040534781446,
-        "ending_point_direction": 135.8401451292475
+        "ending_point_direction": 135.8401451292475,
+        "difficulty": 1
     },
     {
         "id": 51,
@@ -26841,7 +26891,8 @@
             ]
         ],
         "starting_point_direction": 104.32077341073538,
-        "ending_point_direction": 156.73195748098303
+        "ending_point_direction": 156.73195748098303,
+        "difficulty": 2
     },
     {
         "id": 52,
@@ -26997,7 +27048,8 @@
             ]
         ],
         "starting_point_direction": 29.42352045408219,
-        "ending_point_direction": 148.30734282525853
+        "ending_point_direction": 148.30734282525853,
+        "difficulty": 2
     },
     {
         "id": 53,
@@ -27105,7 +27157,8 @@
             ]
         ],
         "starting_point_direction": 156.73206843375533,
-        "ending_point_direction": -145.52927936033328
+        "ending_point_direction": -145.52927936033328,
+        "difficulty": 2
     },
     {
         "id": 54,
@@ -27529,7 +27582,8 @@
             ]
         ],
         "starting_point_direction": 145.51612145961718,
-        "ending_point_direction": -170.8407970031529
+        "ending_point_direction": -170.8407970031529,
+        "difficulty": 1
     },
     {
         "id": 55,
@@ -27601,7 +27655,8 @@
             ]
         ],
         "starting_point_direction": -91.99807210571605,
-        "ending_point_direction": -90.63870639561462
+        "ending_point_direction": -90.63870639561462,
+        "difficulty": 0
     },
     {
         "id": 56,
@@ -27865,7 +27920,8 @@
             ]
         ],
         "starting_point_direction": 129.50436927431437,
-        "ending_point_direction": -34.14303851430343
+        "ending_point_direction": -34.14303851430343,
+        "difficulty": 0
     },
     {
         "id": 57,
@@ -28509,7 +28565,8 @@
             ]
         ],
         "starting_point_direction": -161.98478199156537,
-        "ending_point_direction": 95.79852500233957
+        "ending_point_direction": 95.79852500233957,
+        "difficulty": 1
     },
     {
         "id": 58,
@@ -28577,7 +28634,8 @@
             ]
         ],
         "starting_point_direction": -146.11602842162003,
-        "ending_point_direction": -151.954588711884
+        "ending_point_direction": -151.954588711884,
+        "difficulty": 0
     },
     {
         "id": 59,
@@ -28673,7 +28731,8 @@
             ]
         ],
         "starting_point_direction": -141.04559164352395,
-        "ending_point_direction": -111.17636184328843
+        "ending_point_direction": -111.17636184328843,
+        "difficulty": 0
     },
     {
         "id": 60,
@@ -28753,7 +28812,8 @@
             ]
         ],
         "starting_point_direction": -76.34904408285973,
-        "ending_point_direction": -141.04539563066535
+        "ending_point_direction": -141.04539563066535,
+        "difficulty": 0
     },
     {
         "id": 61,
@@ -28893,7 +28953,8 @@
             ]
         ],
         "starting_point_direction": 37.20886826422016,
-        "ending_point_direction": 51.16595721371208
+        "ending_point_direction": 51.16595721371208,
+        "difficulty": 1
     },
     {
         "id": 62,
@@ -28997,7 +29058,8 @@
             ]
         ],
         "starting_point_direction": -107.34040171646875,
-        "ending_point_direction": -62.359318156706415
+        "ending_point_direction": -62.359318156706415,
+        "difficulty": 2
     },
     {
         "id": 63,
@@ -30017,7 +30079,8 @@
             ]
         ],
         "starting_point_direction": -13.118618546202313,
-        "ending_point_direction": 104.47739206087073
+        "ending_point_direction": 104.47739206087073,
+        "difficulty": 0
     },
     {
         "id": 64,
@@ -30433,7 +30496,8 @@
             ]
         ],
         "starting_point_direction": 23.010974400042038,
-        "ending_point_direction": -65.8788645752327
+        "ending_point_direction": -65.8788645752327,
+        "difficulty": 1
     },
     {
         "id": 65,
@@ -30501,7 +30565,8 @@
             ]
         ],
         "starting_point_direction": -121.51317549605751,
-        "ending_point_direction": -49.00443185408312
+        "ending_point_direction": -49.00443185408312,
+        "difficulty": 0
     },
     {
         "id": 66,
@@ -30549,7 +30614,8 @@
             ]
         ],
         "starting_point_direction": -21.52627783529443,
-        "ending_point_direction": -34.939431468134515
+        "ending_point_direction": -34.939431468134515,
+        "difficulty": 3
     },
     {
         "id": 67,
@@ -30949,7 +31015,8 @@
             ]
         ],
         "starting_point_direction": -27.908502582130055,
-        "ending_point_direction": 18.14572867766973
+        "ending_point_direction": 18.14572867766973,
+        "difficulty": 1
     },
     {
         "id": 68,
@@ -31441,7 +31508,8 @@
             ]
         ],
         "starting_point_direction": -9.900545294002985,
-        "ending_point_direction": -70.51401027964272
+        "ending_point_direction": -70.51401027964272,
+        "difficulty": 1
     },
     {
         "id": 69,
@@ -32033,7 +32101,8 @@
             ]
         ],
         "starting_point_direction": 24.006039276599108,
-        "ending_point_direction": 43.81292847614519
+        "ending_point_direction": 43.81292847614519,
+        "difficulty": 0
     },
     {
         "id": 70,
@@ -32217,7 +32286,8 @@
             ]
         ],
         "starting_point_direction": 118.6290911175863,
-        "ending_point_direction": -174.93274918564754
+        "ending_point_direction": -174.93274918564754,
+        "difficulty": 1
     },
     {
         "id": 71,
@@ -32309,7 +32379,8 @@
             ]
         ],
         "starting_point_direction": -65.05137745149361,
-        "ending_point_direction": -70.77091304667965
+        "ending_point_direction": -70.77091304667965,
+        "difficulty": 2
     },
     {
         "id": 72,
@@ -32993,7 +33064,8 @@
             ]
         ],
         "starting_point_direction": -90.33665292297562,
-        "ending_point_direction": -164.14363770646688
+        "ending_point_direction": -164.14363770646688,
+        "difficulty": 1
     },
     {
         "id": 73,
@@ -33589,7 +33661,8 @@
             ]
         ],
         "starting_point_direction": 15.189490534806296,
-        "ending_point_direction": 18.352973512336387
+        "ending_point_direction": 18.352973512336387,
+        "difficulty": 0
     },
     {
         "id": 74,
@@ -33825,7 +33898,8 @@
             ]
         ],
         "starting_point_direction": -109.17055989023605,
-        "ending_point_direction": -62.75830771525745
+        "ending_point_direction": -62.75830771525745,
+        "difficulty": 1
     },
     {
         "id": 75,
@@ -33901,7 +33975,8 @@
             ]
         ],
         "starting_point_direction": -29.883106171556758,
-        "ending_point_direction": -27.577220672597324
+        "ending_point_direction": -27.577220672597324,
+        "difficulty": 2
     },
     {
         "id": 76,
@@ -34097,7 +34172,8 @@
             ]
         ],
         "starting_point_direction": 35.69224245117314,
-        "ending_point_direction": -55.347754693751455
+        "ending_point_direction": -55.347754693751455,
+        "difficulty": 2
     },
     {
         "id": 77,
@@ -35161,7 +35237,8 @@
             ]
         ],
         "starting_point_direction": -10.68042732426462,
-        "ending_point_direction": 43.25786551809678
+        "ending_point_direction": 43.25786551809678,
+        "difficulty": 0
     },
     {
         "id": 78,
@@ -35217,7 +35294,8 @@
             ]
         ],
         "starting_point_direction": -92.19395369361204,
-        "ending_point_direction": -37.20098893515362
+        "ending_point_direction": -37.20098893515362,
+        "difficulty": 3
     },
     {
         "id": 79,
@@ -35481,7 +35559,8 @@
             ]
         ],
         "starting_point_direction": -129.4172229143729,
-        "ending_point_direction": 6.9830525778776655
+        "ending_point_direction": 6.9830525778776655,
+        "difficulty": 1
     },
     {
         "id": 80,
@@ -35713,7 +35792,8 @@
             ]
         ],
         "starting_point_direction": -62.42930555486954,
-        "ending_point_direction": -15.142617728201026
+        "ending_point_direction": -15.142617728201026,
+        "difficulty": 2
     },
     {
         "id": 81,
@@ -35829,7 +35909,8 @@
             ]
         ],
         "starting_point_direction": -105.13273412294315,
-        "ending_point_direction": -45.305527634737366
+        "ending_point_direction": -45.305527634737366,
+        "difficulty": 2
     },
     {
         "id": 82,
@@ -35981,7 +36062,8 @@
             ]
         ],
         "starting_point_direction": 92.72842280500372,
-        "ending_point_direction": 67.310362860838
+        "ending_point_direction": 67.310362860838,
+        "difficulty": 1
     },
     {
         "id": 83,
@@ -36277,7 +36359,8 @@
             ]
         ],
         "starting_point_direction": -95.36971394862088,
-        "ending_point_direction": -111.4812948781024
+        "ending_point_direction": -111.4812948781024,
+        "difficulty": 1
     },
     {
         "id": 84,
@@ -37265,7 +37348,8 @@
             ]
         ],
         "starting_point_direction": -6.303595684795985,
-        "ending_point_direction": -157.9228865928753
+        "ending_point_direction": -157.9228865928753,
+        "difficulty": 0
     },
     {
         "id": 85,
@@ -37785,7 +37869,8 @@
             ]
         ],
         "starting_point_direction": -118.30958920224786,
-        "ending_point_direction": -79.72693197058778
+        "ending_point_direction": -79.72693197058778,
+        "difficulty": 1
     },
     {
         "id": 86,
@@ -37949,7 +38034,8 @@
             ]
         ],
         "starting_point_direction": 27.09602444293273,
-        "ending_point_direction": -31.150630545636687
+        "ending_point_direction": -31.150630545636687,
+        "difficulty": 1
     },
     {
         "id": 87,
@@ -38293,7 +38379,8 @@
             ]
         ],
         "starting_point_direction": 41.16114253263706,
-        "ending_point_direction": 140.30079507891654
+        "ending_point_direction": 140.30079507891654,
+        "difficulty": 1
     },
     {
         "id": 88,
@@ -38329,7 +38416,8 @@
             ]
         ],
         "starting_point_direction": -19.0360434793874,
-        "ending_point_direction": 20.782279427029714
+        "ending_point_direction": 20.782279427029714,
+        "difficulty": 3
     },
     {
         "id": 89,
@@ -38521,7 +38609,8 @@
             ]
         ],
         "starting_point_direction": 67.3157567439471,
-        "ending_point_direction": 59.33310412761306
+        "ending_point_direction": 59.33310412761306,
+        "difficulty": 2
     },
     {
         "id": 90,
@@ -38793,7 +38882,8 @@
             ]
         ],
         "starting_point_direction": -146.37557322851288,
-        "ending_point_direction": 52.41251838561619
+        "ending_point_direction": 52.41251838561619,
+        "difficulty": 2
     },
     {
         "id": 91,
@@ -38953,7 +39043,8 @@
             ]
         ],
         "starting_point_direction": -39.41703165538862,
-        "ending_point_direction": -25.890903513077383
+        "ending_point_direction": -25.890903513077383,
+        "difficulty": 1
     },
     {
         "id": 92,
@@ -39521,7 +39612,8 @@
             ]
         ],
         "starting_point_direction": 40.21226556112533,
-        "ending_point_direction": 160.93488041395125
+        "ending_point_direction": 160.93488041395125,
+        "difficulty": 1
     },
     {
         "id": 93,
@@ -40285,7 +40377,8 @@
             ]
         ],
         "starting_point_direction": -162.6333321587153,
-        "ending_point_direction": -113.06413791849309
+        "ending_point_direction": -113.06413791849309,
+        "difficulty": 0
     },
     {
         "id": 94,
@@ -40441,7 +40534,8 @@
             ]
         ],
         "starting_point_direction": -72.82201755084071,
-        "ending_point_direction": -22.60357206285108
+        "ending_point_direction": -22.60357206285108,
+        "difficulty": 2
     },
     {
         "id": 95,
@@ -40513,7 +40607,8 @@
             ]
         ],
         "starting_point_direction": 57.062117603529295,
-        "ending_point_direction": 86.43185995816897
+        "ending_point_direction": 86.43185995816897,
+        "difficulty": 2
     },
     {
         "id": 96,
@@ -41065,7 +41160,8 @@
             ]
         ],
         "starting_point_direction": -121.71902030644029,
-        "ending_point_direction": 3.4995501179897235
+        "ending_point_direction": 3.4995501179897235,
+        "difficulty": 0
     },
     {
         "id": 97,
@@ -41249,7 +41345,8 @@
             ]
         ],
         "starting_point_direction": -88.07596861874276,
-        "ending_point_direction": -81.86941051676041
+        "ending_point_direction": -81.86941051676041,
+        "difficulty": 1
     },
     {
         "id": 98,
@@ -41913,7 +42010,8 @@
             ]
         ],
         "starting_point_direction": 146.65951537537273,
-        "ending_point_direction": -171.28414180734947
+        "ending_point_direction": -171.28414180734947,
+        "difficulty": 0
     },
     {
         "id": 99,
@@ -41989,7 +42087,8 @@
             ]
         ],
         "starting_point_direction": 110.5923230851437,
-        "ending_point_direction": 86.92814852280696
+        "ending_point_direction": 86.92814852280696,
+        "difficulty": 0
     },
     {
         "id": 100,
@@ -42209,7 +42308,8 @@
             ]
         ],
         "starting_point_direction": -122.98044780818289,
-        "ending_point_direction": -114.01804294602441
+        "ending_point_direction": -114.01804294602441,
+        "difficulty": 2
     },
     {
         "id": 101,
@@ -42393,7 +42493,8 @@
             ]
         ],
         "starting_point_direction": -34.049270313764616,
-        "ending_point_direction": -42.748761873608906
+        "ending_point_direction": -42.748761873608906,
+        "difficulty": 2
     },
     {
         "id": 102,
@@ -42505,7 +42606,8 @@
             ]
         ],
         "starting_point_direction": -77.62559256135943,
-        "ending_point_direction": -114.91638732271777
+        "ending_point_direction": -114.91638732271777,
+        "difficulty": 0
     },
     {
         "id": 103,
@@ -42769,7 +42871,8 @@
             ]
         ],
         "starting_point_direction": -20.77519470310492,
-        "ending_point_direction": 18.21883075038504
+        "ending_point_direction": 18.21883075038504,
+        "difficulty": 1
     },
     {
         "id": 104,
@@ -42813,7 +42916,8 @@
             ]
         ],
         "starting_point_direction": -58.86498128566544,
-        "ending_point_direction": -37.09536552567201
+        "ending_point_direction": -37.09536552567201,
+        "difficulty": 3
     },
     {
         "id": 105,
@@ -43061,7 +43165,8 @@
             ]
         ],
         "starting_point_direction": 21.264945980444008,
-        "ending_point_direction": 59.48547365514992
+        "ending_point_direction": 59.48547365514992,
+        "difficulty": 2
     },
     {
         "id": 106,
@@ -43125,7 +43230,8 @@
             ]
         ],
         "starting_point_direction": -89.35858215996896,
-        "ending_point_direction": -62.044603314629775
+        "ending_point_direction": -62.044603314629775,
+        "difficulty": 0
     },
     {
         "id": 107,
@@ -43453,7 +43559,8 @@
             ]
         ],
         "starting_point_direction": 45.975312980291825,
-        "ending_point_direction": 106.58280534535712
+        "ending_point_direction": 106.58280534535712,
+        "difficulty": 1
     },
     {
         "id": 108,
@@ -44641,7 +44748,8 @@
             ]
         ],
         "starting_point_direction": -102.36039605912784,
-        "ending_point_direction": 49.68996179832541
+        "ending_point_direction": 49.68996179832541,
+        "difficulty": 0
     },
     {
         "id": 109,
@@ -44757,7 +44865,8 @@
             ]
         ],
         "starting_point_direction": 1.0320174317430286,
-        "ending_point_direction": -146.3400292373993
+        "ending_point_direction": -146.3400292373993,
+        "difficulty": 2
     },
     {
         "id": 110,
@@ -45081,7 +45190,8 @@
             ]
         ],
         "starting_point_direction": -8.278683709772546,
-        "ending_point_direction": 44.143145259916075
+        "ending_point_direction": 44.143145259916075,
+        "difficulty": 0
     },
     {
         "id": 111,
@@ -45753,7 +45863,8 @@
             ]
         ],
         "starting_point_direction": 170.3391293402889,
-        "ending_point_direction": 177.5152904090923
+        "ending_point_direction": 177.5152904090923,
+        "difficulty": 0
     },
     {
         "id": 112,
@@ -46309,7 +46420,8 @@
             ]
         ],
         "starting_point_direction": -69.46789577975511,
-        "ending_point_direction": 34.072199378512515
+        "ending_point_direction": 34.072199378512515,
+        "difficulty": 0
     },
     {
         "id": 113,
@@ -46673,7 +46785,8 @@
             ]
         ],
         "starting_point_direction": 46.96564033256829,
-        "ending_point_direction": 142.1837361726431
+        "ending_point_direction": 142.1837361726431,
+        "difficulty": 1
     },
     {
         "id": 114,
@@ -46905,7 +47018,8 @@
             ]
         ],
         "starting_point_direction": -69.52708745008471,
-        "ending_point_direction": -110.35600019346347
+        "ending_point_direction": -110.35600019346347,
+        "difficulty": 1
     },
     {
         "id": 115,
@@ -47473,7 +47587,8 @@
             ]
         ],
         "starting_point_direction": -98.6766850510749,
-        "ending_point_direction": -13.632246511403213
+        "ending_point_direction": -13.632246511403213,
+        "difficulty": 1
     },
     {
         "id": 116,
@@ -47837,7 +47952,8 @@
             ]
         ],
         "starting_point_direction": -55.99369372656205,
-        "ending_point_direction": 38.591218825256895
+        "ending_point_direction": 38.591218825256895,
+        "difficulty": 2
     },
     {
         "id": 117,
@@ -47925,7 +48041,8 @@
             ]
         ],
         "starting_point_direction": 148.9963746406117,
-        "ending_point_direction": 139.72647456957628
+        "ending_point_direction": 139.72647456957628,
+        "difficulty": 2
     },
     {
         "id": 118,
@@ -47969,7 +48086,8 @@
             ]
         ],
         "starting_point_direction": 19.80299187403056,
-        "ending_point_direction": -52.989472398156614
+        "ending_point_direction": -52.989472398156614,
+        "difficulty": 1
     },
     {
         "id": 119,
@@ -48629,7 +48747,8 @@
             ]
         ],
         "starting_point_direction": 176.73065978639715,
-        "ending_point_direction": -150.38659957780553
+        "ending_point_direction": -150.38659957780553,
+        "difficulty": 1
     },
     {
         "id": 120,
@@ -49001,7 +49120,8 @@
             ]
         ],
         "starting_point_direction": -32.27839032509454,
-        "ending_point_direction": 23.57815905472775
+        "ending_point_direction": 23.57815905472775,
+        "difficulty": 2
     },
     {
         "id": 121,
@@ -49165,7 +49285,8 @@
             ]
         ],
         "starting_point_direction": 4.784520189383594,
-        "ending_point_direction": 73.44857287826171
+        "ending_point_direction": 73.44857287826171,
+        "difficulty": 2
     },
     {
         "id": 122,
@@ -49345,7 +49466,8 @@
             ]
         ],
         "starting_point_direction": 6.423988806449576,
-        "ending_point_direction": 7.4370420544447455
+        "ending_point_direction": 7.4370420544447455,
+        "difficulty": 1
     },
     {
         "id": 123,
@@ -49437,7 +49559,8 @@
             ]
         ],
         "starting_point_direction": 134.04204782931018,
-        "ending_point_direction": 170.41488196182792
+        "ending_point_direction": 170.41488196182792,
+        "difficulty": 2
     },
     {
         "id": 124,
@@ -49493,7 +49616,8 @@
             ]
         ],
         "starting_point_direction": 171.90869807635494,
-        "ending_point_direction": 126.57764289558163
+        "ending_point_direction": 126.57764289558163,
+        "difficulty": 0
     },
     {
         "id": 125,
@@ -49617,7 +49741,8 @@
             ]
         ],
         "starting_point_direction": 122.24204931799564,
-        "ending_point_direction": 171.30482481619717
+        "ending_point_direction": 171.30482481619717,
+        "difficulty": 0
     },
     {
         "id": 126,
@@ -50085,7 +50210,8 @@
             ]
         ],
         "starting_point_direction": 48.72404180495889,
-        "ending_point_direction": 108.58809281581568
+        "ending_point_direction": 108.58809281581568,
+        "difficulty": 1
     },
     {
         "id": 127,
@@ -50217,7 +50343,8 @@
             ]
         ],
         "starting_point_direction": -120.16541893271459,
-        "ending_point_direction": -6.939988878814973
+        "ending_point_direction": -6.939988878814973,
+        "difficulty": 2
     },
     {
         "id": 128,
@@ -50257,7 +50384,8 @@
             ]
         ],
         "starting_point_direction": 170.1925562421074,
-        "ending_point_direction": -164.77638185417734
+        "ending_point_direction": -164.77638185417734,
+        "difficulty": 3
     },
     {
         "id": 129,
@@ -50357,7 +50485,8 @@
             ]
         ],
         "starting_point_direction": -90.23852843642949,
-        "ending_point_direction": -93.63569144269995
+        "ending_point_direction": -93.63569144269995,
+        "difficulty": 0
     },
     {
         "id": 130,
@@ -50817,7 +50946,8 @@
             ]
         ],
         "starting_point_direction": -61.92149711672952,
-        "ending_point_direction": 50.53498781615372
+        "ending_point_direction": 50.53498781615372,
+        "difficulty": 1
     },
     {
         "id": 131,
@@ -51221,7 +51351,8 @@
             ]
         ],
         "starting_point_direction": 46.00337050653684,
-        "ending_point_direction": 4.852413904569583
+        "ending_point_direction": 4.852413904569583,
+        "difficulty": 2
     },
     {
         "id": 132,
@@ -51441,7 +51572,8 @@
             ]
         ],
         "starting_point_direction": -69.09321231541766,
-        "ending_point_direction": -36.73752969644901
+        "ending_point_direction": -36.73752969644901,
+        "difficulty": 1
     },
     {
         "id": 133,
@@ -51581,7 +51713,8 @@
             ]
         ],
         "starting_point_direction": 20.128690007980303,
-        "ending_point_direction": 2.8305329356114033
+        "ending_point_direction": 2.8305329356114033,
+        "difficulty": 2
     },
     {
         "id": 134,
@@ -52009,7 +52142,8 @@
             ]
         ],
         "starting_point_direction": 3.3274178277149886,
-        "ending_point_direction": -56.49767053978295
+        "ending_point_direction": -56.49767053978295,
+        "difficulty": 1
     },
     {
         "id": 135,
@@ -52073,7 +52207,8 @@
             ]
         ],
         "starting_point_direction": -81.93435825197487,
-        "ending_point_direction": -73.18468239644837
+        "ending_point_direction": -73.18468239644837,
+        "difficulty": 2
     },
     {
         "id": 136,
@@ -52169,7 +52304,8 @@
             ]
         ],
         "starting_point_direction": -106.08106959247034,
-        "ending_point_direction": 168.21542810399538
+        "ending_point_direction": 168.21542810399538,
+        "difficulty": 1
     },
     {
         "id": 137,
@@ -52609,7 +52745,8 @@
             ]
         ],
         "starting_point_direction": -30.761443329418956,
-        "ending_point_direction": -25.874143763043502
+        "ending_point_direction": -25.874143763043502,
+        "difficulty": 2
     },
     {
         "id": 138,
@@ -52981,7 +53118,8 @@
             ]
         ],
         "starting_point_direction": -60.74807040718815,
-        "ending_point_direction": 8.071031450854743
+        "ending_point_direction": 8.071031450854743,
+        "difficulty": 1
     },
     {
         "id": 139,
@@ -53749,7 +53887,8 @@
             ]
         ],
         "starting_point_direction": -170.8857629503886,
-        "ending_point_direction": 165.5275468688645
+        "ending_point_direction": 165.5275468688645,
+        "difficulty": 1
     },
     {
         "id": 140,
@@ -54081,7 +54220,8 @@
             ]
         ],
         "starting_point_direction": -154.61315109758377,
-        "ending_point_direction": -157.0623740316568
+        "ending_point_direction": -157.0623740316568,
+        "difficulty": 1
     },
     {
         "id": 141,
@@ -54605,7 +54745,8 @@
             ]
         ],
         "starting_point_direction": 108.50558945464783,
-        "ending_point_direction": -156.8221739910093
+        "ending_point_direction": -156.8221739910093,
+        "difficulty": 2
     },
     {
         "id": 142,
@@ -54773,7 +54914,8 @@
             ]
         ],
         "starting_point_direction": -156.91886980944957,
-        "ending_point_direction": 158.69081018720712
+        "ending_point_direction": 158.69081018720712,
+        "difficulty": 1
     },
     {
         "id": 143,
@@ -54905,7 +55047,8 @@
             ]
         ],
         "starting_point_direction": -112.07868101583956,
-        "ending_point_direction": -122.05256275722739
+        "ending_point_direction": -122.05256275722739,
+        "difficulty": 1
     },
     {
         "id": 144,
@@ -55165,7 +55308,8 @@
             ]
         ],
         "starting_point_direction": -98.77495397281942,
-        "ending_point_direction": -126.55654152527342
+        "ending_point_direction": -126.55654152527342,
+        "difficulty": 1
     },
     {
         "id": 145,
@@ -55965,7 +56109,8 @@
             ]
         ],
         "starting_point_direction": -10.492639563459186,
-        "ending_point_direction": 51.22261402600125
+        "ending_point_direction": 51.22261402600125,
+        "difficulty": 1
     },
     {
         "id": 146,
@@ -55993,7 +56138,8 @@
             ]
         ],
         "starting_point_direction": -2.236010957176519,
-        "ending_point_direction": -2.236010957176519
+        "ending_point_direction": -2.236010957176519,
+        "difficulty": 2
     },
     {
         "id": 147,
@@ -56213,7 +56359,8 @@
             ]
         ],
         "starting_point_direction": 64.41228942578198,
-        "ending_point_direction": 85.53600532457956
+        "ending_point_direction": 85.53600532457956,
+        "difficulty": 2
     },
     {
         "id": 148,
@@ -56593,7 +56740,8 @@
             ]
         ],
         "starting_point_direction": -5.418081475049652,
-        "ending_point_direction": 34.34012566218163
+        "ending_point_direction": 34.34012566218163,
+        "difficulty": 2
     },
     {
         "id": 149,
@@ -57053,7 +57201,8 @@
             ]
         ],
         "starting_point_direction": -168.59576434691672,
-        "ending_point_direction": 170.9308035212552
+        "ending_point_direction": 170.9308035212552,
+        "difficulty": 1
     },
     {
         "id": 150,
@@ -57169,7 +57318,8 @@
             ]
         ],
         "starting_point_direction": 27.899747263052134,
-        "ending_point_direction": -34.11010031085444
+        "ending_point_direction": -34.11010031085444,
+        "difficulty": 2
     },
     {
         "id": 151,
@@ -57377,7 +57527,8 @@
             ]
         ],
         "starting_point_direction": -28.727124460273394,
-        "ending_point_direction": -67.6738505021341
+        "ending_point_direction": -67.6738505021341,
+        "difficulty": 1
     },
     {
         "id": 152,
@@ -57405,7 +57556,8 @@
             ]
         ],
         "starting_point_direction": -140.68190299002734,
-        "ending_point_direction": -140.68190299002734
+        "ending_point_direction": -140.68190299002734,
+        "difficulty": 3
     },
     {
         "id": 153,
@@ -57505,7 +57657,8 @@
             ]
         ],
         "starting_point_direction": -23.937121874389035,
-        "ending_point_direction": 27.900057913730812
+        "ending_point_direction": 27.900057913730812,
+        "difficulty": 2
     },
     {
         "id": 154,
@@ -57669,7 +57822,8 @@
             ]
         ],
         "starting_point_direction": -136.5389289988584,
-        "ending_point_direction": -160.0786927122325
+        "ending_point_direction": -160.0786927122325,
+        "difficulty": 2
     },
     {
         "id": 155,
@@ -57697,7 +57851,8 @@
             ]
         ],
         "starting_point_direction": 25.0765864350995,
-        "ending_point_direction": 25.0765864350995
+        "ending_point_direction": 25.0765864350995,
+        "difficulty": 0
     },
     {
         "id": 156,
@@ -57913,7 +58068,8 @@
             ]
         ],
         "starting_point_direction": 104.5706975648283,
-        "ending_point_direction": 75.50583787656272
+        "ending_point_direction": 75.50583787656272,
+        "difficulty": 2
     },
     {
         "id": 157,
@@ -58173,7 +58329,8 @@
             ]
         ],
         "starting_point_direction": 45.4274545210703,
-        "ending_point_direction": 19.953408925627038
+        "ending_point_direction": 19.953408925627038,
+        "difficulty": 2
     },
     {
         "id": 158,
@@ -58377,7 +58534,8 @@
             ]
         ],
         "starting_point_direction": -74.73658240412675,
-        "ending_point_direction": -82.68389120206858
+        "ending_point_direction": -82.68389120206858,
+        "difficulty": 2
     },
     {
         "id": 159,
@@ -59041,7 +59199,8 @@
             ]
         ],
         "starting_point_direction": -170.2173035515155,
-        "ending_point_direction": 170.23366768821415
+        "ending_point_direction": 170.23366768821415,
+        "difficulty": 1
     },
     {
         "id": 160,
@@ -59265,7 +59424,8 @@
             ]
         ],
         "starting_point_direction": -107.17851489314096,
-        "ending_point_direction": -135.031614160997
+        "ending_point_direction": -135.031614160997,
+        "difficulty": 1
     },
     {
         "id": 161,
@@ -59501,7 +59661,8 @@
             ]
         ],
         "starting_point_direction": -106.49335872167568,
-        "ending_point_direction": -160.23661181943768
+        "ending_point_direction": -160.23661181943768,
+        "difficulty": 1
     },
     {
         "id": 162,
@@ -59601,7 +59762,8 @@
             ]
         ],
         "starting_point_direction": -64.8041993878756,
-        "ending_point_direction": -32.23186973696162
+        "ending_point_direction": -32.23186973696162,
+        "difficulty": 2
     },
     {
         "id": 163,
@@ -59809,7 +59971,8 @@
             ]
         ],
         "starting_point_direction": 128.83930773660552,
-        "ending_point_direction": 102.69932660212595
+        "ending_point_direction": 102.69932660212595,
+        "difficulty": 2
     },
     {
         "id": 164,
@@ -60113,7 +60276,8 @@
             ]
         ],
         "starting_point_direction": -151.36028935156202,
-        "ending_point_direction": -123.67927656516694
+        "ending_point_direction": -123.67927656516694,
+        "difficulty": 2
     },
     {
         "id": 165,
@@ -60209,7 +60373,8 @@
             ]
         ],
         "starting_point_direction": -48.47717494458919,
-        "ending_point_direction": -95.55161329894094
+        "ending_point_direction": -95.55161329894094,
+        "difficulty": 0
     },
     {
         "id": 166,
@@ -60237,7 +60402,8 @@
             ]
         ],
         "starting_point_direction": 72.06214480841562,
-        "ending_point_direction": 72.06214480841562
+        "ending_point_direction": 72.06214480841562,
+        "difficulty": 3
     },
     {
         "id": 167,
@@ -60265,7 +60431,8 @@
             ]
         ],
         "starting_point_direction": -174.8633685845592,
-        "ending_point_direction": -174.8633685845592
+        "ending_point_direction": -174.8633685845592,
+        "difficulty": 0
     },
     {
         "id": 168,
@@ -60837,7 +61004,8 @@
             ]
         ],
         "starting_point_direction": -160.6115025896747,
-        "ending_point_direction": -154.7485043619249
+        "ending_point_direction": -154.7485043619249,
+        "difficulty": 1
     },
     {
         "id": 169,
@@ -61137,7 +61305,8 @@
             ]
         ],
         "starting_point_direction": -69.33724732735638,
-        "ending_point_direction": -17.924834607226508
+        "ending_point_direction": -17.924834607226508,
+        "difficulty": 2
     },
     {
         "id": 170,
@@ -61349,7 +61518,8 @@
             ]
         ],
         "starting_point_direction": -58.80183774504045,
-        "ending_point_direction": 80.47244510703086
+        "ending_point_direction": 80.47244510703086,
+        "difficulty": 0
     },
     {
         "id": 171,
@@ -61597,7 +61767,8 @@
             ]
         ],
         "starting_point_direction": 125.59303007573236,
-        "ending_point_direction": 172.34156611239032
+        "ending_point_direction": 172.34156611239032,
+        "difficulty": 2
     },
     {
         "id": 172,
@@ -61761,7 +61932,8 @@
             ]
         ],
         "starting_point_direction": -101.27288239273193,
-        "ending_point_direction": -112.28586148165851
+        "ending_point_direction": -112.28586148165851,
+        "difficulty": 1
     },
     {
         "id": 173,
@@ -61893,7 +62065,8 @@
             ]
         ],
         "starting_point_direction": 66.04186504446984,
-        "ending_point_direction": 17.310785023542074
+        "ending_point_direction": 17.310785023542074,
+        "difficulty": 0
     },
     {
         "id": 174,
@@ -61977,7 +62150,8 @@
             ]
         ],
         "starting_point_direction": -135.6056818084642,
-        "ending_point_direction": -171.7421628728542
+        "ending_point_direction": -171.7421628728542,
+        "difficulty": 3
     },
     {
         "id": 175,
@@ -62005,7 +62179,8 @@
             ]
         ],
         "starting_point_direction": -70.48178290076955,
-        "ending_point_direction": -70.48178290076955
+        "ending_point_direction": -70.48178290076955,
+        "difficulty": 0
     },
     {
         "id": 176,
@@ -62061,7 +62236,8 @@
             ]
         ],
         "starting_point_direction": -56.62208992696654,
-        "ending_point_direction": -74.33221339117034
+        "ending_point_direction": -74.33221339117034,
+        "difficulty": 0
     },
     {
         "id": 177,
@@ -62345,7 +62521,8 @@
             ]
         ],
         "starting_point_direction": 119.71996196469982,
-        "ending_point_direction": 65.60199032181991
+        "ending_point_direction": 65.60199032181991,
+        "difficulty": 1
     },
     {
         "id": 178,
@@ -62473,7 +62650,8 @@
             ]
         ],
         "starting_point_direction": -95.7412195968965,
-        "ending_point_direction": -66.19405635076318
+        "ending_point_direction": -66.19405635076318,
+        "difficulty": 2
     },
     {
         "id": 179,
@@ -62549,7 +62727,8 @@
             ]
         ],
         "starting_point_direction": -85.84255816481772,
-        "ending_point_direction": -100.26420633843996
+        "ending_point_direction": -100.26420633843996,
+        "difficulty": 0
     },
     {
         "id": 180,
@@ -63089,7 +63268,8 @@
             ]
         ],
         "starting_point_direction": -67.57817203383854,
-        "ending_point_direction": -87.23035188237452
+        "ending_point_direction": -87.23035188237452,
+        "difficulty": 2
     },
     {
         "id": 181,
@@ -63249,7 +63429,8 @@
             ]
         ],
         "starting_point_direction": -135.28875434091344,
-        "ending_point_direction": -136.04769519668406
+        "ending_point_direction": -136.04769519668406,
+        "difficulty": 2
     },
     {
         "id": 182,
@@ -63365,7 +63546,8 @@
             ]
         ],
         "starting_point_direction": 38.29827177965403,
-        "ending_point_direction": 37.81125315730875
+        "ending_point_direction": 37.81125315730875,
+        "difficulty": 0
     },
     {
         "id": 183,
@@ -64285,7 +64467,8 @@
             ]
         ],
         "starting_point_direction": -45.015753555306404,
-        "ending_point_direction": -59.26309678371084
+        "ending_point_direction": -59.26309678371084,
+        "difficulty": 0
     },
     {
         "id": 184,
@@ -64313,7 +64496,8 @@
             ]
         ],
         "starting_point_direction": -61.234807589104214,
-        "ending_point_direction": -61.234807589104214
+        "ending_point_direction": -61.234807589104214,
+        "difficulty": 3
     },
     {
         "id": 185,
@@ -64585,7 +64769,8 @@
             ]
         ],
         "starting_point_direction": 4.130163292052525,
-        "ending_point_direction": -112.66906921379747
+        "ending_point_direction": -112.66906921379747,
+        "difficulty": 2
     },
     {
         "id": 186,
@@ -64829,7 +65014,8 @@
             ]
         ],
         "starting_point_direction": -76.7227744859874,
-        "ending_point_direction": -57.58695891821372
+        "ending_point_direction": -57.58695891821372,
+        "difficulty": 2
     },
     {
         "id": 187,
@@ -64893,7 +65079,8 @@
             ]
         ],
         "starting_point_direction": -98.84104654106191,
-        "ending_point_direction": -168.597534427066
+        "ending_point_direction": -168.597534427066,
+        "difficulty": 0
     },
     {
         "id": 188,
@@ -64921,7 +65108,8 @@
             ]
         ],
         "starting_point_direction": -3.64821317288026,
-        "ending_point_direction": -3.64821317288026
+        "ending_point_direction": -3.64821317288026,
+        "difficulty": 0
     },
     {
         "id": 189,
@@ -64949,7 +65137,8 @@
             ]
         ],
         "starting_point_direction": -96.73300019061503,
-        "ending_point_direction": -96.73300019061503
+        "ending_point_direction": -96.73300019061503,
+        "difficulty": 3
     },
     {
         "id": 190,
@@ -64977,7 +65166,8 @@
             ]
         ],
         "starting_point_direction": -66.69484177726203,
-        "ending_point_direction": -66.69484177726203
+        "ending_point_direction": -66.69484177726203,
+        "difficulty": 0
     },
     {
         "id": 191,
@@ -65497,7 +65687,8 @@
             ]
         ],
         "starting_point_direction": 42.95179709259325,
-        "ending_point_direction": 46.13804460002581
+        "ending_point_direction": 46.13804460002581,
+        "difficulty": 1
     },
     {
         "id": 192,
@@ -65833,7 +66024,8 @@
             ]
         ],
         "starting_point_direction": 122.46981069629385,
-        "ending_point_direction": 155.67082233762056
+        "ending_point_direction": 155.67082233762056,
+        "difficulty": 2
     },
     {
         "id": 193,
@@ -66781,7 +66973,8 @@
             ]
         ],
         "starting_point_direction": 18.538702520919344,
-        "ending_point_direction": -130.7520792618604
+        "ending_point_direction": -130.7520792618604,
+        "difficulty": 0
     },
     {
         "id": 194,
@@ -67333,7 +67526,8 @@
             ]
         ],
         "starting_point_direction": 165.37008386813235,
-        "ending_point_direction": -172.61775028114874
+        "ending_point_direction": -172.61775028114874,
+        "difficulty": 1
     },
     {
         "id": 195,
@@ -67393,7 +67587,8 @@
             ]
         ],
         "starting_point_direction": -158.34044303246608,
-        "ending_point_direction": -128.11221017563955
+        "ending_point_direction": -128.11221017563955,
+        "difficulty": 2
     },
     {
         "id": 196,
@@ -67697,7 +67892,8 @@
             ]
         ],
         "starting_point_direction": -150.38600278528105,
-        "ending_point_direction": 172.93099113605285
+        "ending_point_direction": 172.93099113605285,
+        "difficulty": 2
     },
     {
         "id": 197,
@@ -67769,7 +67965,8 @@
             ]
         ],
         "starting_point_direction": 4.8419908625904435,
-        "ending_point_direction": -10.390956358195428
+        "ending_point_direction": -10.390956358195428,
+        "difficulty": 0
     },
     {
         "id": 198,
@@ -67845,7 +68042,8 @@
             ]
         ],
         "starting_point_direction": 83.06175037402888,
-        "ending_point_direction": 66.04205009169667
+        "ending_point_direction": 66.04205009169667,
+        "difficulty": 0
     },
     {
         "id": 199,
@@ -67941,7 +68139,8 @@
             ]
         ],
         "starting_point_direction": -96.39445445127564,
-        "ending_point_direction": -102.42763162220656
+        "ending_point_direction": -102.42763162220656,
+        "difficulty": 0
     },
     {
         "id": 200,
@@ -68181,7 +68380,8 @@
             ]
         ],
         "starting_point_direction": -45.41215752476158,
-        "ending_point_direction": -18.371391270879844
+        "ending_point_direction": -18.371391270879844,
+        "difficulty": 2
     },
     {
         "id": 201,
@@ -68241,7 +68441,8 @@
             ]
         ],
         "starting_point_direction": -16.232896047247785,
-        "ending_point_direction": -14.932415127250769
+        "ending_point_direction": -14.932415127250769,
+        "difficulty": 0
     },
     {
         "id": 202,
@@ -68289,7 +68490,8 @@
             ]
         ],
         "starting_point_direction": 10.773301910409563,
-        "ending_point_direction": 14.89745070159325
+        "ending_point_direction": 14.89745070159325,
+        "difficulty": 0
     },
     {
         "id": 203,
@@ -68389,7 +68591,8 @@
             ]
         ],
         "starting_point_direction": -3.730737721387684,
-        "ending_point_direction": -33.93098094051253
+        "ending_point_direction": -33.93098094051253,
+        "difficulty": 0
     },
     {
         "id": 204,
@@ -68633,7 +68836,8 @@
             ]
         ],
         "starting_point_direction": -57.06531647229495,
-        "ending_point_direction": -63.212914663894566
+        "ending_point_direction": -63.212914663894566,
+        "difficulty": 2
     },
     {
         "id": 205,
@@ -68697,7 +68901,8 @@
             ]
         ],
         "starting_point_direction": -63.212873404620346,
-        "ending_point_direction": -36.63223306000073
+        "ending_point_direction": -36.63223306000073,
+        "difficulty": 3
     },
     {
         "id": 206,
@@ -68741,7 +68946,8 @@
             ]
         ],
         "starting_point_direction": -69.42835488336719,
-        "ending_point_direction": -72.52385605561403
+        "ending_point_direction": -72.52385605561403,
+        "difficulty": 3
     },
     {
         "id": 207,
@@ -68805,7 +69011,8 @@
             ]
         ],
         "starting_point_direction": -127.77969680034579,
-        "ending_point_direction": 125.99408185986447
+        "ending_point_direction": 125.99408185986447,
+        "difficulty": 0
     },
     {
         "id": 208,
@@ -68893,7 +69100,8 @@
             ]
         ],
         "starting_point_direction": -80.17648260733998,
-        "ending_point_direction": -106.30017693193824
+        "ending_point_direction": -106.30017693193824,
+        "difficulty": 0
     },
     {
         "id": 209,
@@ -69189,7 +69397,8 @@
             ]
         ],
         "starting_point_direction": 116.28156386004973,
-        "ending_point_direction": 175.6727101979719
+        "ending_point_direction": 175.6727101979719,
+        "difficulty": 1
     },
     {
         "id": 210,
@@ -69317,7 +69526,8 @@
             ]
         ],
         "starting_point_direction": -158.06506725067854,
-        "ending_point_direction": 88.88949823749732
+        "ending_point_direction": 88.88949823749732,
+        "difficulty": 0
     },
     {
         "id": 211,
@@ -69397,7 +69607,8 @@
             ]
         ],
         "starting_point_direction": 140.88843747322287,
-        "ending_point_direction": 108.5061645625244
+        "ending_point_direction": 108.5061645625244,
+        "difficulty": 2
     },
     {
         "id": 212,
@@ -69493,7 +69704,8 @@
             ]
         ],
         "starting_point_direction": -90.77252091558529,
-        "ending_point_direction": -81.83886115810529
+        "ending_point_direction": -81.83886115810529,
+        "difficulty": 0
     },
     {
         "id": 213,
@@ -69621,7 +69833,8 @@
             ]
         ],
         "starting_point_direction": -157.583145981289,
-        "ending_point_direction": -177.4512146725152
+        "ending_point_direction": -177.4512146725152,
+        "difficulty": 1
     },
     {
         "id": 214,
@@ -69709,7 +69922,8 @@
             ]
         ],
         "starting_point_direction": -140.51518551653888,
-        "ending_point_direction": -157.58353089872807
+        "ending_point_direction": -157.58353089872807,
+        "difficulty": 2
     },
     {
         "id": 215,
@@ -69937,7 +70151,8 @@
             ]
         ],
         "starting_point_direction": 107.11604972217353,
-        "ending_point_direction": 63.22075496169766
+        "ending_point_direction": 63.22075496169766,
+        "difficulty": 0
     },
     {
         "id": 216,
@@ -70037,7 +70252,8 @@
             ]
         ],
         "starting_point_direction": 91.99621160077064,
-        "ending_point_direction": 121.20714217257505
+        "ending_point_direction": 121.20714217257505,
+        "difficulty": 0
     },
     {
         "id": 217,
@@ -70133,7 +70349,8 @@
             ]
         ],
         "starting_point_direction": 13.418118933670208,
-        "ending_point_direction": -20.548692758336763
+        "ending_point_direction": -20.548692758336763,
+        "difficulty": 0
     },
     {
         "id": 218,
@@ -70253,7 +70470,8 @@
             ]
         ],
         "starting_point_direction": 30.77726927167813,
-        "ending_point_direction": 46.4312526363969
+        "ending_point_direction": 46.4312526363969,
+        "difficulty": 2
     },
     {
         "id": 219,
@@ -70365,7 +70583,8 @@
             ]
         ],
         "starting_point_direction": 11.7319476577431,
-        "ending_point_direction": 36.747896832195835
+        "ending_point_direction": 36.747896832195835,
+        "difficulty": 2
     },
     {
         "id": 220,
@@ -70393,7 +70612,8 @@
             ]
         ],
         "starting_point_direction": 73.44839362438033,
-        "ending_point_direction": 73.44839362438033
+        "ending_point_direction": 73.44839362438033,
+        "difficulty": 0
     },
     {
         "id": 221,
@@ -70573,7 +70793,8 @@
             ]
         ],
         "starting_point_direction": -15.904629623051871,
-        "ending_point_direction": -9.973890939436197
+        "ending_point_direction": -9.973890939436197,
+        "difficulty": 0
     },
     {
         "id": 222,
@@ -70809,6 +71030,7 @@
             ]
         ],
         "starting_point_direction": -165.93105532714404,
-        "ending_point_direction": -170.8854805068143
+        "ending_point_direction": -170.8854805068143,
+        "difficulty": 1
     }
 ]
